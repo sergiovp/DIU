@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Sergio Vela Pelegrina     :octocat: [GitHub](https://github.com/sergiovp)
+ * :bust_in_silhouette:  Pablo Jesús Jiménez Ortiz     :octocat: [GitHub](https://github.com/pabloj121)
 
 ----- 
 
