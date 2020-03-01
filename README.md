@@ -54,7 +54,8 @@ De otra parte, la web pisos.com ofrece un buen servicio pero los colores de las 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/pisos.png)
 
 >
-Por último, la web  [habitoom](http://es.habitoom.com)  **será la plataforma objeto de un análisis más exhaustivo**. Habitoom, de forma contraria a los dos casos anteriormente descritos, **no posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **poco responsive**, pues desde el móvil se hace casi imposible su utilización, con letras que no se ajustan de manera adecuada, siendo necesario hacer zoom sobre la página constantemente. La plataforma se ofrece también en forma de App móvil, pero dicha App, con formularios **poco intuitivos** y capitales de provincia que no contienen ni un solo piso a escoger, deja mucho que desear.
+Por último, la web  [habitoom](http://es.habitoom.com)  **será la plataforma objeto de un análisis más exhaustivo**. Habitoom, de forma contraria a los dos casos anteriormente descritos, **no posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **poco responsive**, pues desde el móvil se hace casi imposible su utilización, con letras que no se ajustan de manera adecuada, siendo necesario hacer zoom sobre la página constantemente. Hay lugares de la página en las que leer la información se hace muy complicada debido al color de las fuentes y el fondo.
+La plataforma se ofrece también en forma de App móvil, pero dicha App, con formularios **poco intuitivos** y capitales de provincia que no contienen ni un solo piso a escoger, deja mucho que desear.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/IMG_0609.jpg)
 
