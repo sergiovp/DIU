@@ -33,7 +33,30 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
+
+Para la realización de la práctica se han estudiado algunas plataformas de economía colaborativa. En nuestro caso, las plataformas bajo estudio se dedican a aportar un servicio de “**Experiencia de compartir alojamiento**”. Tras investigar distintas plataformas Web así como aplicaciones móviles para nuestro cometido, las opciones elegidas son:
+
+
++ [roomgo](https://www.roomgo.es) 
++ [pisos.com](https://www.pisos.com) 
++ [habitoom](http://es.habitoom.com)
+
+
+>
+Por una parte, [roomgo](https://www.roomgo.es)  aporta un servicio que posibilita encontrar pisos de alquiler. Dicha web posee un certificado SSL que proporciona seguridad a la hora de navegar así como una interfaz fácil de entender pero falta de servicios que sí posee la competencia. Asimismo, la interfaz nos parece incorrecta teniendo en cuenta la aparición de un banner que resta mucha visibilidad. Dicho banner no puede ser eliminado de ninguna forma y resulta incómoda la navegación por la página.
+
+![](/home/vela/Imágenes/bannerincomodo.png)
+
+>
+De otra parte, la web pisos.com ofrece un buen servicio pero los colores de las fuentes de texto y los colores de fondo no favorecen a tener una experiencia agradable pues hacen que el usuario fuerce la vista.
+
+![](/home/vela/Imágenes/pisos.png)
+
+>
+Por último, la web  [habitoom](http://es.habitoom.com)  **será la plataforma objeto de un análisis más exhaustivo**. Habitoom, de forma contraria a los dos casos anteriormente descritos, **no posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **poco responsive**, pues desde el móvil se hace casi imposible su utilización, con letras que no se ajustan de manera adecuada, siendo necesario hacer zoom sobre la página constantemente. La plataforma se ofrece también en forma de App móvil, pero dicha App, con formularios **poco intuitivos** y capitales de provincia que no contienen ni un solo piso a escoger, deja mucho que desear.
+
+![](/home/vela/Descargas/IMG_0609.jpg)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
