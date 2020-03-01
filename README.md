@@ -3,9 +3,12 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2_SVPJ.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: Experiencia de compartir alojamiento
 
-Descripción: 
+Descripción: Plataformas que te permiten compartir compañeros (para un piso de estudiantes), desplazarte a
+otros lugares de forma alternativas (sofá) y muy económicas (alternativas a una transacción
+económica). Algunos ejemplos son Badi, Couchsurfing, CompartetuPiso, etc.
+(https://mejores.app/las-apps-que-tienes-que-conocer-si-compartes-piso/)
 
 Logotipo: 
 
