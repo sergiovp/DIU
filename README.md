@@ -64,6 +64,17 @@ La plataforma se ofrece también en forma de App móvil, pero dicha App, con for
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
+
+En primer lugar hemos creado a **Germán**, una persona con amplias habilidades tecnológicas pero con poca capacidad social y en este sentido Germán se plantea como un usuario potencial de la plataforma pues uno de sus mayores deseos es conocer gente nueva.
+
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/german.png)
+
+Por último, también hemos creado a **Eva**, la cual es una persona más madura a la que le gustaría pasar tiempo con su familia, pero sus circunstancias personales hacen difícil esta tarea y cuando dispone de tiempo libre no es capaz de planificar estos viajes a través de la web pues no entiende cómo usar las plataformas existentes.
+
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/eva.png)
+
+
+
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
