@@ -46,17 +46,17 @@ Para la realización de la práctica se han estudiado algunas plataformas de eco
 >
 Por una parte, [roomgo](https://www.roomgo.es)  aporta un servicio que posibilita encontrar pisos de alquiler. Dicha web posee un certificado SSL que proporciona seguridad a la hora de navegar así como una interfaz fácil de entender pero falta de servicios que sí posee la competencia. Asimismo, la interfaz nos parece incorrecta teniendo en cuenta la aparición de un banner que resta mucha visibilidad. Dicho banner no puede ser eliminado de ninguna forma y resulta incómoda la navegación por la página.
 
-![](/home/vela/Imágenes/bannerincomodo.png)
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/bannerincomodo.png)
 
 >
 De otra parte, la web pisos.com ofrece un buen servicio pero los colores de las fuentes de texto y los colores de fondo no favorecen a tener una experiencia agradable pues hacen que el usuario fuerce la vista.
 
-![](/home/vela/Imágenes/pisos.png)
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/pisos.png)
 
 >
 Por último, la web  [habitoom](http://es.habitoom.com)  **será la plataforma objeto de un análisis más exhaustivo**. Habitoom, de forma contraria a los dos casos anteriormente descritos, **no posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **poco responsive**, pues desde el móvil se hace casi imposible su utilización, con letras que no se ajustan de manera adecuada, siendo necesario hacer zoom sobre la página constantemente. La plataforma se ofrece también en forma de App móvil, pero dicha App, con formularios **poco intuitivos** y capitales de provincia que no contienen ni un solo piso a escoger, deja mucho que desear.
 
-![](/home/vela/Descargas/IMG_0609.jpg)
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/IMG_0609.jpg)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
