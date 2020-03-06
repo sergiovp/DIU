@@ -88,17 +88,26 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["Manter una relacion cercana con sus hijos", "Viajar a China.", "Desarrollarse como artista.", "Exponer una de sus creaciones en el Museo Guggenheim."],
-				Frustrations: ["Su marido pasa poco tiempo con ella.", "El trabajo de su marido ha evitado que pueda desarrollar su faceta artística.", "Los hijos son autosuficientes y dispone de tiempo libre.", "Le gustaría encontrar un servicio que supiera usar, y que le permitiera viajar con su familia y amigos."],
-				Bio: "Lleva con su pareja desde que tenía 16 años. Tuvo su primer hijo a los 20, antes de acabar la carrera y el segundo a los 27. Su segundo hijo tuvo un grave accidente con 8 años. Siempre ha tenido buena relación con su marido y mantiene una grata relacion con sus amistades. Ha intentado usar plataformas de alquiler de pisos sin exito pues le resultan difíciles de usar. Le encantaría recorrer España.",
+				Goals: ["Mantener una relacion cercana con sus hijos", "Viajar a China.", "Desarrollarse como artista.", 
+				"Exponer una de sus creaciones en el Museo Guggenheim."],
+				Frustrations: ["Su marido pasa poco tiempo con ella.", "El trabajo de su marido como camionero ha evitado que pueda"+
+				" desarrollar su faceta artística, pues ella siempre ha estado el cargo de su hijo pequeño tras el grave accidente "+
+				" y esto no le ha permitido.", 
+				"Los hijos son autosuficientes y dispone de tiempo libre.", 
+				"Le gustaría encontrar un servicio que supiera usar, y que le permitiera viajar con su familia y amigos."],
+				Bio: "Nació en Guinea Ecuatorial pero a la edad de 5 años vino a España con sus padres, donde iniciaron una nueva vida."+ 
+				" Tras las primeras dificultades de adaptación, se decantó por la pintura, desarrollando sus dotes artísticas desde pequeña. " +
+				" Lleva con su pareja desde que tenía 16 años. Tuvo su primer hijo a los 20, antes de acabar la carrera y el segundo a los "+
+				" 27, ambos de género masculino. Su segundo hijo tuvo un grave accidente con 8 años. Siempre ha tenido buena relación con "+
+				" su marido y mantiene una grata relacion con sus amistades, con las que sale a andar a diario. Le encantaría recorrer España.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Mobile", Value: 3 },
 					{ Name: "RRSS", Value: 3 },
-					{ Name: "Software", Value: 1 }
-					
+					{ Name: "Software", Value: 1 }					
 				], 
-                Contextos:   "Le gustaría tener la posibilidad de pasar más tiempo con su familia en lugares desconocidos hasta la fecha." ,
+                Contextos:   "Ha intentado enseñarse a usar plataformas de alquiler de pisos sin exito pues le resultan difíciles de usar."+ 
+                " Le gustaría tener la posibilidad de pasar más tiempo con su familia en lugares desconocidos hasta la fecha." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
 					{ Name: "Online & Social Media", Value: 2 },
