@@ -33,23 +33,32 @@ angular.module("angular", [])
                 
                 
 				Id: 0,
-				Name: "German Palomares",
+				Name: "Germán Palomares",
 				Photo: "persona1_matthew.jpg",
-				Quote: "Tempus Fugit",
+				Quote: "El tiempo vuela",
 				Age: 34,
 				Occupation: "Freelancer a tiempo completo",
 				Family: "Soltero desde hace 5 años",
-				Location: "Jaén (Torre Don Jimeno)",
+				Location: "Jaén (Torredonjimeno)",
 				Character: "Le gusta pasar tiempo en casa",
 				PersonalityTraits: [
-					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 4 },
-					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
-					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
-					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 5 }
+					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 2 },
+					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
+					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
+					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
 				Goals: ["Cambiar de aires", "Conocer gente nueva, tener nuevas experiencias", "Encontrar un trabajo que le permita socializar"],
 				Frustrations: ["Se considera una persona con pocas habilidades sociales", "No encuentra pareja"],
-				Bio: "Fue a estudiar a Valencia, donde conoció a su expareja con la cual mantuvo 8 años de relación. Le gustaría tener más relación con sus padres, así como un trabajo mejor remunerado pues trabaja muchas horas, y eso hace que se relacione con poca gente.",
+				Bio: "Germán nació en Valencia capital, lugar en el que se crió junto a sus padres. " + 
+				"Es hijo único y desde pequeño se aficionó a la informática. Por este motivo, a la " + 
+				"edad de 20 años, comenzó un ciclo formativo de programación, en el que conoció a" + 
+				"su expareja. Mantuvieron una relación de 7 años. A los 27 años, tras la ruptura, decidió mudarse" +
+				"a un pueblo de Jaén, Torredonjimeno, buscando tranquilidad. Lleva trabajando desde casa como freelancer" +
+				"desde su llegada al pueblo, en el sector de desarrollo software. Ahora, 7 años tras su llegada, " +
+				"se ha dado cuenta de que se siente solo, "+ 
+				"le gustaría tener más tiempo libre, conocer a gente nueva con la que pueda salir a divertirse y por qué no, " +
+				"encontrar pareja y formar una familia.",
+
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
 					{ Name: "Movil", Value: 4 },
@@ -57,7 +66,10 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 5 }
 					
 				], 
-                Contextos: "Le gustaría salir del pueblo y abrir su círculo de gente. También desea viajar con la familia",  
+				Contextos: "Dejar atrás la vida tan aburrida que lleva. Le gustaría conocer gente nueva " +
+				"para salir, hacer más deporte y por qué no, volver a enamorarse y formar una familia." +
+				" Se siente aburrido del pueblo en el que vive, por lo que le gustaría también volver a " + 
+				"Valencia, para estar cerca de sus padres que se hacen mayores y los ve muy poco.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 3 },
 					{ Name: "Online & Social Media", Value: 1 },
