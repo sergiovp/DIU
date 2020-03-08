@@ -41,7 +41,7 @@ Para la realización de la práctica se han estudiado algunas plataformas de eco
 + [roomgo](https://www.roomgo.es) 
 + [pisos.com](https://www.pisos.com) 
 + [habitoom](http://es.habitoom.com)
-
++ [pisocompartido](https://www.pisocompartido.com)
 
 >
 Por una parte, [roomgo](https://www.roomgo.es)  aporta un servicio que posibilita encontrar pisos de alquiler. Dicha web posee un certificado SSL que proporciona seguridad a la hora de navegar así como una interfaz fácil de entender pero falta de servicios que sí posee la competencia. Asimismo, la interfaz nos parece incorrecta teniendo en cuenta la aparición de un banner que resta mucha visibilidad. Dicho banner no puede ser eliminado de ninguna forma y resulta incómoda la navegación por la página.
@@ -54,10 +54,13 @@ De otra parte, la web pisos.com ofrece un buen servicio pero los colores de las 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/pisos.png)
 
 >
-Por último, la web  [habitoom](http://es.habitoom.com)  **será la plataforma objeto de un análisis más exhaustivo**. Habitoom, de forma contraria a los dos casos anteriormente descritos, **no posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **poco responsive**, pues desde el móvil se hace casi imposible su utilización, con letras que no se ajustan de manera adecuada, siendo necesario hacer zoom sobre la página constantemente. Hay lugares de la página en las que leer la información se hace muy complicada debido al color de las fuentes y el fondo.
+[Habitoom](http://es.habitoom.com) de forma contraria a los dos casos anteriormente descritos, **no posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **poco responsive**, pues desde el móvil se hace casi imposible su utilización, con letras que no se ajustan de manera adecuada, siendo necesario hacer zoom sobre la página constantemente. Hay lugares de la página en las que leer la información se hace muy complicada debido al color de las fuentes y el fondo.
 La plataforma se ofrece también en forma de App móvil, pero dicha App, con formularios **poco intuitivos** y capitales de provincia que no contienen ni un solo piso a escoger, deja mucho que desear.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/IMG_0609.jpg)
+
+>
+Por último, la web  [pisocompartido](https://www.pisocompartido.com)  **será la plataforma objeto de un análisis más exhaustivo**. Pisocompartido, de igual forma  que roomgo y pisos.com, **posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **responsive**, viéndose de manera adecuada en todo momento. Además, la navegación es agradable por los colores usados. También ofrece la posibilidad de ponerte en contacto de manera directa con Whatsapp desde la propia Web, cosa que no ofrecen la mayoria de portales de la competencia. Sin embargo, vemos suficientes lagunas en esta web, que serán analizadas a lo largo de estas prácticas. Algunas de ellas son por ejemplo, la falta de información acerca de la accesibilidad a los edificios para personas minusválidas o tener en cuenta el transporte público a la hora de elegir piso.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -65,7 +68,7 @@ La plataforma se ofrece también en forma de App móvil, pero dicha App, con for
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 
-En primer lugar hemos creado a **Germán**, una persona con amplias habilidades tecnológicas pero con poca capacidad social y en este sentido Germán se plantea como un usuario potencial de la plataforma pues uno de sus mayores deseos es conocer gente nueva.
+En primer lugar hemos creado a **Germán**, una persona con amplias habilidades tecnológicas pero con pocas habilidades sociales y en este sentido Germán se plantea como un usuario potencial de la plataforma pues uno de sus mayores deseos es conocer gente nueva.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/german.png)
 
