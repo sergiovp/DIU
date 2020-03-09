@@ -46,7 +46,7 @@ En primer lugar hemos creado a **Germán**, una persona con amplias habilidades 
 
 Por último, también hemos creado a **Eva**, la cual es una persona más madura a la que le gustaría pasar tiempo con su familia, pero sus circunstancias personales hacen difícil esta tarea y cuando dispone de tiempo libre no es capaz de planificar estos viajes a través de la web pues no entiende cómo usar las plataformas existentes.
 
-![](https://github.com/sergiovp/DIU/blob/master/P1/images/eva.png)
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/bio_eva.png)
 
 
 
