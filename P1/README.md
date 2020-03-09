@@ -34,7 +34,7 @@ La plataforma se ofrece también en forma de App móvil, pero dicha App, con for
 >
 Por último, la web  [pisocompartido](https://www.pisocompartido.com)  **será la plataforma objeto de un análisis más exhaustivo**. Pisocompartido, de igual forma  que roomgo y pisos.com, **posee un certificado de seguridad** que proporcione confianza a la hora de navegar por la Web, la cual ofrece un diseño **responsive**, viéndose de manera adecuada en todo momento. Además, la navegación es agradable por los colores usados. También ofrece la posibilidad de ponerte en contacto de manera directa con Whatsapp desde la propia Web, cosa que no ofrecen la mayoria de portales de la competencia. Sin embargo, vemos suficientes lagunas en esta web, que serán analizadas a lo largo de estas prácticas. Algunas de ellas son por ejemplo, la falta de información acerca de la accesibilidad a los edificios para personas minusválidas o tener en cuenta el transporte público a la hora de elegir piso.
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](../img/Persona.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
