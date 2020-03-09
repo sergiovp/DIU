@@ -92,29 +92,29 @@ angular.module("angular", [])
                 /*************************************/
                 
 				Id: 1,
-				Name: "Monica Suarez",
-                Photo: "woman.png",
+				Name: "Eva Sánchez",
+                Photo: "persona2_eva.jpg",
                 
 				 /*** PASO #1: INSPIRACION ***/ 
-                goal1: "Quiere preparar un viaje con su familia para Verano, tiene sólo 15 dias libres",
+                goal1: "Quiere preparar un viaje con su familia para Verano, tiene que cuadrar vacaciones de su marido con días libres de sus hijos",
                 touch1: "agenda",
-                feel1: "5",
-                con1: "Quiere ir a un pais exotico pero que tenga atracciones para niños pequeños",
+                feel1: "4",
+                con1: "Quiere ir a algun destino español con interés turístico y que guste al resto de su familia",
                 ima1: "cartoon-going.png",
                 
-                /*** PASO #2: DECICION ***/ 
-                goal2: "Ir a una agencia de viajes, y decirle sus preferencias y planes",
-                touch2: "Servicio (agencia)",
-                feel2: "4",
-                con2: "Tiene que desplazarse a agencia, explica su intenciones, le llamaran porque no hay nada interesante",
+                /*** PASO #2: DECISION ***/ 
+                goal2: "Registrarse en una plataforma Web de alquiler de pisos para iniciar su búsqueda personalizada",
+                touch2: "Servicio (plataforma Web)",
+                feel2: "3",
+                con2: "Tiene que registrarse y realizar las búsquedas ella sola, que con pocas habilidades tecnológicas le resulta difícil",
                 ima2: "cartoon-teamthinking.png",
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Le llaman a los pocos días con un viaje que no le convence",
-                touch3: "Móvil (llamada)",
+                goal3: "Inicia la búsqueda",
+                touch3: "Móvil (página web)",
                 feel3: "2",
-                con3: "Piensa que ha perdido el tiempo",
+                con3: "No consigue ",
                 ima3: "cartoon-phoningangry.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
@@ -122,7 +122,8 @@ angular.module("angular", [])
                 goal4: "Busca una oferta en hoteles cerca de playa y con parque atracciones",
                 touch4: "Móvil (webapp)",
                 feel4: "2",
-                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien, va por la calle por lo que está incómoda",
+                con4: "No hay mucha información del alojamiento ni de lo que hay alrededor, aunque el precio está bien,"+
+                " va por la calle por lo que está incómoda",
                 ima4: "cartoon-phone-street.png",
                 
                  /*** PASO #5: ANALIZA ***/ 

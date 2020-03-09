@@ -105,20 +105,21 @@ angular.module("angular", [])
 				], 
 				Goals: ["Terminar la carrera", "Mantener una relacion cercana con sus hijos", "Viajar a China", "Desarrollarse como artista", 
 				"Exponer una de sus creaciones en el Museo Guggenheim"],
-				Frustrations: ["Su marido pasa poco tiempo con ella, pues es camionero y realiza rutas internacionales", 
+				Frustrations: ["Su marido pasa poco tiempo con ella", 
 				"Sus obras artísticas nunca han conseguido el éxito que a ella le gustaría",  
 				"Tiene pocas habilidades tecnológicas y cree que se está quedando anticuada"],
 				Bio: "Nació en Guinea Ecuatorial pero a la edad de 5 años vino a España con sus padres, donde iniciaron una nueva vida."+ 
 				" Tras las primeras dificultades de adaptación, se decantó por la pintura, desarrollando sus dotes artísticos desde pequeña. " +
 				" Lleva con su pareja desde que tenía 16 años. Tiene dos hijos, el primero lo tuvo a los 20, antes de acabar" + 
-				" la carrera de bellas artes, debido a esto, tuvo que postponer terminar los estudios, ya que el marido es " +
-				"camionero y no se podía hacer cargo del niño. El segundo hijo lo tuvo a los " +
+				" la carrera de Bellas Artes. Debido a esto, tuvo que posponer terminar los estudios, ya que el marido es " +
+				"camionero y pasaba poco tiempo en casa. El segundo hijo lo tuvo a los " +
 				" 27, justo cuando tenía pensado retomar la carrera. Ambos hijos son de género masculino." + 
 				" Su segundo hijo tuvo un grave accidente con 8 años, del que acabó recuperándose." + 
 				" Siempre ha tenido buena relación con "+
 				" su marido a pesar del poco tiempo que pueden disfrutar juntos y mantiene una grata relacion con sus amistades," +
 				" con las que sale a andar a diario. Los hijos son autosuficientes" +
-				" y dispone de tiempo libre. Le encantaría terminar la carrera de una vez por todas y recorrer España.",
+				" y dispone de poco tiempo libre, el cual emplea sacando unas cuantas asignaturas cada año. Le encantaría"+
+				"terminar la carrera de una vez por todas y recorrer España.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Mobile", Value: 3 },
@@ -126,8 +127,8 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }					
 				], 
 				Contextos:   "Le gustaría aprender a manejar mejor un ordenador, ya que piensa que podría" +
-				" sacarle mayor partido a su faceta creativa usando softwares de diseño."+ 
-                " Le gustaría tener la posibilidad de pasar más tiempo con su familia en lugares desconocidos hasta la fecha." ,
+				" sacarle mayor partido a su faceta creativa usando softwares de diseño y de esta forma publicitar sus obras."+ 
+                " Desea viajar a lugares desconocidos hasta la fecha con su familia." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
 					{ Name: "Online & Social Media", Value: 2 },
