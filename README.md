@@ -61,8 +61,11 @@ Las personas seleccionadas son **Germán y Eva**.
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+---
 
-### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P1)
+### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P1).
+
+---
 
 ## Paso 2. UX Design  
 
