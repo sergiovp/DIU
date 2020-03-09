@@ -1,4 +1,4 @@
-## DIU - Practica1, entregables
+# DIU - Practica1, entregables
 
 ## Paso 1. UX Desk Research & Analisis 
 
