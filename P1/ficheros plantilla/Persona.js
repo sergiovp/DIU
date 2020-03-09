@@ -93,24 +93,29 @@ angular.module("angular", [])
 				Occupation: "Ama de casa",
 				Family: "No tiene padres, pero tiene marido y dos hijos.",
 				Location: "Pais Vasco (Bilbao)",
-				Character: "Afable, amiga de sus amigos y decidida.",
+				Character: "Afable, amiga de sus amigos y decidida",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 3 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 3 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["Mantener una relacion cercana con sus hijos", "Viajar a China.", "Desarrollarse como artista.", 
-				"Exponer una de sus creaciones en el Museo Guggenheim."],
-				Frustrations: ["Su marido pasa poco tiempo con ella, pues es camionero y realiza rutas internacionales.", 
+				Goals: ["Terminar la carrera, Mantener una relacion cercana con sus hijos", "Viajar a China", "Desarrollarse como artista", 
+				"Exponer una de sus creaciones en el Museo Guggenheim"],
+				Frustrations: ["Su marido pasa poco tiempo con ella, pues es camionero y realiza rutas internacionales", 
 				"Sus obras artísticas nunca han conseguido el éxito que a ella le gustaría",  
-				"Tiene pocas habilidades tecnológicas y cree que se está quedando anticuada."],
+				"Tiene pocas habilidades tecnológicas y cree que se está quedando anticuada"],
 				Bio: "Nació en Guinea Ecuatorial pero a la edad de 5 años vino a España con sus padres, donde iniciaron una nueva vida."+ 
-				" Tras las primeras dificultades de adaptación, se decantó por la pintura, desarrollando sus dotes artísticas desde pequeña. " +
-				" Lleva con su pareja desde que tenía 16 años. Tuvo su primer hijo a los 20, antes de acabar la carrera y el segundo a los "+
-				" 27, ambos de género masculino. Su segundo hijo tuvo un grave accidente con 8 años, del que acabó recuperándose. Siempre ha tenido buena relación con "+
-				" su marido y mantiene una grata relacion con sus amistades, con las que sale a andar a diario. Los hijos son autosuficientes"+
-				"y dispone de tiempo libre. Le encantaría recorrer España.",
+				" Tras las primeras dificultades de adaptación, se decantó por la pintura, desarrollando sus dotes artísticos desde pequeña. " +
+				" Lleva con su pareja desde que tenía 16 años. Tiene dos hijos, el primero lo tuvo a los 20, antes de acabar" + 
+				" la carrera de bellas artes, debido a esto, tuvo que postponer terminar los estudios, ya que el marido es " +
+				"camionero y no se podía hacer cargo del niño. El segundo hijo lo tuvo a los " +
+				" 27, justo cuando tenía pensado retomar la carrera. Ambos hijos son de género masculino." + 
+				" Su segundo hijo tuvo un grave accidente con 8 años, del que acabó recuperándose." + 
+				" Siempre ha tenido buena relación con "+
+				" su marido a pesar del poco tiempo que pueden disfrutar juntos y mantiene una grata relacion con sus amistades," +
+				" con las que sale a andar a diario. Los hijos son autosuficientes" +
+				" y dispone de tiempo libre. Le encantaría terminar la carrera de una vez por todas y recorrer España.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Mobile", Value: 3 },
