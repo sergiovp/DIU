@@ -47,17 +47,20 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 4 }
 				], 
-				Goals: ["Cambiar de aires", "Conocer gente nueva, tener nuevas experiencias", "Encontrar un trabajo que le permita socializar"],
-				Frustrations: ["Se considera una persona con pocas habilidades sociales", "No encuentra pareja"],
+				Goals: ["Cambiar de aires", "Conocer gente nueva, tener nuevas experiencias", 
+				"Cambiar de trabajo", "Adoptar una mascota", "Ver más a menudo a su familia"],
+				Frustrations: ["Se considera una persona con pocas habilidades sociales", 
+				"No encuentra pareja", "Está alejado de su familia", "Tiene la sensación de estar " +
+				"desperciando su vida" ],
 				Bio: "Germán nació en Valencia capital, lugar en el que se crió junto a sus padres. " + 
 				"Es hijo único y desde pequeño se aficionó a la informática. Por este motivo, a la " + 
 				"edad de 20 años, comenzó un ciclo formativo de programación, en el que conoció a" + 
-				"su expareja. Mantuvieron una relación de 7 años. A los 27 años, tras la ruptura, decidió mudarse" +
-				"a un pueblo de Jaén, Torredonjimeno, buscando tranquilidad. Lleva trabajando desde casa como freelancer" +
-				"desde su llegada al pueblo, en el sector de desarrollo software. Ahora, 7 años tras su llegada, " +
+				" su expareja. Mantuvieron una relación de 7 años. A los 27 años, tras la ruptura, decidió mudarse" +
+				" a un pueblo de Jaén, Torredonjimeno, buscando tranquilidad. Lleva trabajando desde casa como freelancer" +
+				" desde su llegada al pueblo, en el sector de desarrollo software. Ahora, 7 años tras su llegada, " +
 				"se ha dado cuenta de que se siente solo, "+ 
-				"le gustaría tener más tiempo libre, conocer a gente nueva con la que pueda salir a divertirse y por qué no, " +
-				"encontrar pareja y formar una familia.",
+				"se pasa los días enteros en casa trabajando y no  practica nada de deporte." + 
+				" Siempre ha querido tener un perro que le de compañía pero no se ha atrevido a dar el paso.",
 
 				Tech: [
 					{ Name: "TIC/Internet", Value: 5 },
@@ -100,7 +103,7 @@ angular.module("angular", [])
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 2 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 2 }
 				], 
-				Goals: ["Terminar la carrera, Mantener una relacion cercana con sus hijos", "Viajar a China", "Desarrollarse como artista", 
+				Goals: ["Terminar la carrera", "Mantener una relacion cercana con sus hijos", "Viajar a China", "Desarrollarse como artista", 
 				"Exponer una de sus creaciones en el Museo Guggenheim"],
 				Frustrations: ["Su marido pasa poco tiempo con ella, pues es camionero y realiza rutas internacionales", 
 				"Sus obras artísticas nunca han conseguido el éxito que a ella le gustaría",  
@@ -122,7 +125,8 @@ angular.module("angular", [])
 					{ Name: "RRSS", Value: 3 },
 					{ Name: "Software", Value: 1 }					
 				], 
-                Contextos:   "Ha intentado enseñarse a usar plataformas de alquiler de pisos sin éxito pues le resultan difíciles de usar."+ 
+				Contextos:   "Le gustaría aprender a manejar mejor un ordenador, ya que piensa que podría" +
+				" sacarle mayor partido a su faceta creativa usando softwares de diseño."+ 
                 " Le gustaría tener la posibilidad de pasar más tiempo con su familia en lugares desconocidos hasta la fecha." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 2 },
