@@ -69,7 +69,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 5 }
 					
 				], 
-				Contextos: "Dejar atrás la vida tan aburrida que lleva. Le gustaría conocer gente nueva " +
+				Contextos: "Dejar atrás la vida tan aburrida que lleva, conociendo gente nueva " +
 				"para salir, hacer más deporte y por qué no, volver a enamorarse y formar una familia." +
 				" Se siente aburrido del pueblo en el que vive, por lo que le gustaría también volver a " + 
 				"Valencia, para estar cerca de sus padres que se hacen mayores y los ve muy poco.",  
