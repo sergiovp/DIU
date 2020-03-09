@@ -59,7 +59,7 @@ Por último, también hemos creado a **Eva**, la cual es una persona más madura
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 
-La experiencia que vive Eva se ha escogido para reflejar un punto débil de la página, las **búsquedas por provincia**. En el caso mostrado, Eva intenta buscar pisos en Galicia y no le aparece ningún resultado. Consideramos que esta experiencia de usuario es usual a veces, sobre todo si las personas han oido hablar de alguna provincia en concreto pero no conocen lugares en particular.
+La experiencia que vive Eva se ha escogido para reflejar un punto débil de la página, las **búsquedas por comunidad autónoma**. En el caso mostrado, Eva intenta buscar pisos en Galicia y no le aparece ningún resultado. Consideramos que esta experiencia de usuario es usual a veces, sobre todo si las personas han oido hablar de alguna provincia en concreto pero no conocen lugares en particular.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/journey_eva.png)
 
