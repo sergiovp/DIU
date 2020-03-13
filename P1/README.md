@@ -74,7 +74,7 @@ La experiencia que vive Eva se ha escogido para reflejar un punto débil de la p
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
 
-El documento que contiene el análisis de usabilidad se llama usability_review.ods.
+El documento que contiene el análisis de usabilidad se encuentra en este mismo directorio y se llama usability_review.ods.
 
 **Valoración final: 72**
 
