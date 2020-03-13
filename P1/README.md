@@ -64,7 +64,7 @@ La experiencia que vive Eva se ha escogido para reflejar un punto débil de la p
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/journey_eva.png)
 
 
-![](https://github.com/sergiovp/DIU/blob/master/P1/images/jm_german.png)
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/jmgerman.png)
 
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
