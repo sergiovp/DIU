@@ -76,7 +76,7 @@ La experiencia que vive Eva se ha escogido para reflejar un punto débil de la p
 
 El documento que contiene el análisis de usabilidad se llama usability_review.ods.
 
-** Valoración final: 72 **
+**Valoración final: 72**
 
 Uno de los puntos flacos de la página web es la poca ayuda que se ofrece al usuario. No dispone de un chat online y el apartado de preguntas frecuentes es muy escueto. Tampoco se tiene en cuenta el tipo de errores que pueden ocurrir a la hora de rellenar formularios y no aparecen ningunas instrucciones. En este sentido, tampoco sabes cómo de largos son los datos a rellenar pues no cuenta con una barra de progreso a lo largo de las etapas de registro o publicación de un piso de alquiler.
 
