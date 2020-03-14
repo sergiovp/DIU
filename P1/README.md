@@ -48,7 +48,7 @@ Por último, también hemos creado a **Eva**, la cual es una persona más madura
 
 ##### "Cuidado con los estafadores".
 
-La experiencia de Germán, se ha escogido para reflejar el problema que puede suponer el no tener un chat online
+La experiencia de **Germán**, se ha escogido para reflejar el problema que puede suponer el no tener un chat online
 para mantenerte en contacto con los administradores de la web.
 Germán se topa con una muy buena oferta de alquiler, pero le piden dinero por adelantado y los inquilinos
 se muestran reacios a enseñarle el piso.
@@ -61,7 +61,7 @@ En este caso Germán es cauto y decide no pagar nada sin consultar a los adminis
 
 ##### "Nada como los métodos tradicionales para alquilar piso".
 
-La experiencia que vive Eva se ha escogido para reflejar un punto débil de la página, las **búsquedas por comunidad autónoma**. En el caso mostrado, Eva intenta buscar pisos en Galicia y no le aparece ningún resultado. Consideramos que esta experiencia de usuario es usual a veces, sobre todo si las personas han oido hablar de alguna provincia en concreto pero no conocen lugares en particular.
+La experiencia que vive **Eva** se ha escogido para reflejar un punto débil de la página, las **búsquedas por comunidad autónoma**. En el caso mostrado, Eva intenta buscar pisos en Galicia y no le aparece ningún resultado. Consideramos que esta experiencia de usuario es usual a veces, sobre todo si las personas han oido hablar de alguna provincia en concreto pero no conocen lugares en particular.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/journey_eva.png)
 
