@@ -46,6 +46,14 @@ Por último, también hemos creado a **Eva**, la cual es una persona más madura
 ![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
+##### "Cuidado con los estafadores".
+
+La experiencia de Germán, se ha escogido para reflejar el problema que puede suponer el no tener un chat online
+para mantenerte en contacto con los administradores de la web.
+Germán se topa con una muy buena oferta de alquiler, pero le piden dinero por adelantado y los inquilinos
+se muestran reacios a enseñarle el piso.
+
+En este caso Germán es cauto y decide no pagar nada sin consultar a los administradores sobre la posible estafa. La demora en la contestación vía correo por parte de los administradores podría haber provocado que otra gente hubiera sido estafada.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/jmgerman.png)
 

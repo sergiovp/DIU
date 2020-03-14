@@ -55,38 +55,42 @@ angular.module("angular", [])
                 
                 /*** PASO #3: ACTUA ***/ 
                 
-                goal3: "Se decide a llamar a un piso en el distrito Ciutat Vella que lo compartiría con dos chicas y un chico",
+                goal3: "Se decide a llamar a un piso en el distrito Ciutat Vella" 
+                +" cuyo precio es muy asequible y lo compartiría con dos chicos",
                 touch3: "Ordenador",
                 feel3: "3",
-                con3: "Está preocupado por si finalmente encajará con los que serán sus nuevos compañeros",
+                con3: "Está preocupado porque sospecha de ser un engaño por el precio tan bajo del alquiler."+ 
+                " También, los inquilinos le piden dinero por adelantado y comunican que no le pueden" + 
+                " enseñar el piso porque \"están de viaje en el extranjero\".",
                 ima3: "cartoon-phone.png",
                 
                 /*** PASO #4: OBSERVA ***/ 
                 
-                goal4: "Los inquilinos del piso se lo recomiendan, le aseguran buena convivencia y afirman que" +
-                " el lugar en el que se ecuentra situado el piso es muy bonito.",
+                goal4: "Se quiere poner en contacto con los administradores de la web" + 
+                " para comunicarle lo que está ocurriendo. Al no haber chat online, les manda un correo.",
                 touch4: "ordenador",
                 feel4: "4",
-                con4: "Tiene que preparar el viaje a Valencia para ver el piso y conocer a la gente.",
+                con4: "La tardanza en la contestación y la incertidumbre.",
                 ima4: "cartoon-PCtyping.png",
                 
                  /*** PASO #5: ANALIZA ***/ 
                 
-                goal5: "Descubre que las tres personas con las que compartiría el piso fuman, " +
-                "algo que Germán odia y además especificó en los filtros de la página de reserva",
+                goal5: "Tras 48 horas de espera, obtiene respuesta, le aconsejan no pagar nada por adelantado" +
+                ", estudiarán el caso y posiblemente borren el anuncio y lo denuncien por estafa.",
                 touch5: "Presencial",
                 feel5: "1",
-                con5: "Debe volver a barajar otras opciones",
+                con5: "Conversación poco fluida y mucha tardanza a través del correo.",
                 ima5: "cartoon-why.png",
                 
                 
                 /*** PASO #6: CONCLUSION ***/ 
                 
-                goal6: "Aprovechando que estaba en Valencia consigue contactar " + 
-                "con una chica que también alquilaba una habitación",
+                goal6: "Los administradores terminan borrando el anuncio. Germán se topa con otro piso" +
+                " de su interés, en este caso, los inquilinos son totalmente transparentes y le dan la " + 
+                "opción de ver el piso cuando quiera.",
                 touch6: "Presencial",
                 feel6: "5",
-                con6: "El piso y la compañera se ajustan a sus intereses y decide alquilarlo",
+                con6: "El piso y los inquilinos se ajustan a sus intereses y decide alquilarlo",
                 ima6: "cartoon-resting.png",
                 
 			},
