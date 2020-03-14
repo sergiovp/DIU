@@ -46,14 +46,15 @@ Por último, también hemos creado a **Eva**, la cual es una persona más madura
 ![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
+
+![](https://github.com/sergiovp/DIU/blob/master/P1/images/jmgerman.png)
+
 ##### "Nada como los métodos tradicionales para alquilar piso".
 
 La experiencia que vive Eva se ha escogido para reflejar un punto débil de la página, las **búsquedas por comunidad autónoma**. En el caso mostrado, Eva intenta buscar pisos en Galicia y no le aparece ningún resultado. Consideramos que esta experiencia de usuario es usual a veces, sobre todo si las personas han oido hablar de alguna provincia en concreto pero no conocen lugares en particular.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/journey_eva.png)
 
-
-![](https://github.com/sergiovp/DIU/blob/master/P1/images/jmgerman.png)
 
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
@@ -62,6 +63,6 @@ El documento que contiene el análisis de usabilidad es [usability_review.pdf](h
 
 **Valoración final: 72**
 
-Uno de los puntos flacos de la página web es la poca ayuda que se ofrece al usuario. No dispone de un chat online y el apartado de preguntas frecuentes es muy escueto. Tampoco se tiene en cuenta el tipo de errores que pueden ocurrir a la hora de rellenar formularios y no aparecen ningunas instrucciones. En este sentido, tampoco sabes cómo de largos son los datos a rellenar pues no cuenta con una barra de progreso a lo largo de las etapas de registro o publicación de un piso de alquiler.
-
-Por otra parte, en el aspecto de la búsqueda, ésta no es sensible a errores pues no se tienen en cuenta, y lo único que se muestra son los resultados coincidentes totalmente. Otro aspecto mejorables de la búsqueda es la cantidad de filtros que se pueden usar pues son pocos y muy generalistas. 
++ Debes introducir ciudades/barrios específicos, no puedes buscar por provincia
++ Filtros de búsqueda escuetos
++ No dispone de chat online de ayuda al usuario
