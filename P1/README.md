@@ -69,7 +69,7 @@ La experiencia que vive Eva se ha escogido para reflejar un punto débil de la p
 ![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 
-El documento que contiene el análisis de usabilidad es [usability_review.pdf](https://github.com/sergiovp/DIU/blob/master/P1/usability_review.pdf).
+El documento que contiene el análisis de usabilidad es [usability_review.pdf](https://github.com/sergiovp/DIU/blob/master/P1/UsabilityReview/usability_review.pdf).
 
 **Valoración final: 72**
 
