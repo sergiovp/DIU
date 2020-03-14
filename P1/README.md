@@ -57,6 +57,8 @@ En este caso Germán es cauto y decide no pagar nada sin consultar a los adminis
 
 ![](https://github.com/sergiovp/DIU/blob/master/P1/images/jmgerman.png)
 
+---
+
 ##### "Nada como los métodos tradicionales para alquilar piso".
 
 La experiencia que vive Eva se ha escogido para reflejar un punto débil de la página, las **búsquedas por comunidad autónoma**. En el caso mostrado, Eva intenta buscar pisos en Galicia y no le aparece ningún resultado. Consideramos que esta experiencia de usuario es usual a veces, sobre todo si las personas han oido hablar de alguna provincia en concreto pero no conocen lugares en particular.
