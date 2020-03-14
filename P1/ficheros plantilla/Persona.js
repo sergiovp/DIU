@@ -72,7 +72,8 @@ angular.module("angular", [])
 				Contextos: "Dejar atrás la vida tan aburrida que lleva, conociendo gente nueva " +
 				"para salir, hacer más deporte y por qué no, volver a enamorarse y formar una familia." +
 				" Se siente aburrido del pueblo en el que vive, por lo que le gustaría también volver a " + 
-				"Valencia, para estar cerca de sus padres que se hacen mayores y los ve muy poco.",  
+				"Valencia, para estar cerca de sus padres que se hacen mayores y los ve muy poco." +
+				"Quiere mejorar su nivel de inglés y sacarse el certificado de Google Analytics.",  
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 3 },
 					{ Name: "Online & Social Media", Value: 1 },
