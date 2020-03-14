@@ -68,8 +68,8 @@ angular.module("angular", [])
                 
                 goal4: "Se quiere poner en contacto con los administradores de la web" + 
                 " para comunicarle lo que está ocurriendo. Al no haber chat online, les manda un correo.",
-                touch4: "ordenador",
-                feel4: "4",
+                touch4: "Ordenador",
+                feel4: "2",
                 con4: "La tardanza en la contestación y la incertidumbre.",
                 ima4: "cartoon-PCtyping.png",
                 
@@ -77,7 +77,7 @@ angular.module("angular", [])
                 
                 goal5: "Tras 48 horas de espera, obtiene respuesta, le aconsejan no pagar nada por adelantado" +
                 ", estudiarán el caso y posiblemente borren el anuncio y lo denuncien por estafa.",
-                touch5: "Presencial",
+                touch5: "Ordenador",
                 feel5: "1",
                 con5: "Conversación poco fluida y mucha tardanza a través del correo.",
                 ima5: "cartoon-why.png",
