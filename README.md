@@ -23,8 +23,6 @@ En esta práctica estudiaremos un caso de plataforma de economía colaborativa y
 
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. 
-
 
 # Proceso de Diseño 
 
@@ -33,15 +31,11 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres)
-
 La plataforma elegida para el estudio será [pisocompartido](https://www.pisocompartido.com).
 La interfaz de dicha página es muy intuitiva, ofrece un diseño **responsive**, viéndose de manera adecuada en todo momento. Además, la navegación es agradable por los colores usados. También ofrece la posibilidad de ponerte en contacto de manera directa con Whatsapp desde la propia Web, cosa que no ofrecen la mayoria de portales de la competencia. Sin embargo, vemos suficientes lagunas en esta web, que serán analizadas a lo largo de estas prácticas. Algunas de ellas son por ejemplo, la falta de información acerca de la accesibilidad a los edificios para personas minusválidas o tener en cuenta el transporte público a la hora de elegir piso.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 Las personas seleccionadas son **Germán y Eva**.
 
@@ -50,16 +44,15 @@ Las personas seleccionadas son **Germán y Eva**.
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+La experiencia de **Germán**, se ha escogido para reflejar el problema que puede suponer el no tener un chat online
+para mantenerte en contacto con los administradores de la web.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+En cuanto a **Eva**, hemos querido reflejar el problema de poder tener **búsquedas por comunidad autónoma** en la página.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+Calificación final obtenida de **72** sobre **100**.
 
 ---
 
