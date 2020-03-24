@@ -56,7 +56,7 @@ Calificación final obtenida de **72** sobre **100**.
 
 ---
 
-### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P1).
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P1).
 
 ---
 
@@ -75,7 +75,7 @@ Calificación final obtenida de **72** sobre **100**.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
-### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P2).
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P2](https://github.com/sergiovp/DIU/tree/master/P2).
 
 ## Paso 3. Make (Prototyping) 
 
