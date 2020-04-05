@@ -14,7 +14,7 @@
 | ------------- | -------
   Preguntas | Nuevas ideas
   
-![](https://github.com/sergiovp/DIU/tree/master/P2/images/malla.png)
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/malla.png)
   
   
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
