@@ -68,7 +68,7 @@ Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de
 
 ---
 
-## Piso
+## Anuncio piso
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/piso.png)
 
 ---
