@@ -6,6 +6,10 @@
 ![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+En esta primera parte construiremos una malla receptora de información o capture grid, que consiste en elaborar un cuadrante con 4 apartados: aspectos positivos, críticas constructivas, preguntas de los usuarios e ideas de mejora.
+
+También incluiremos las propuestas de valor de nuestra aplicación.
+
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/malla.png)
 
 Destacan varias funcionalidades en nuestra aplicación. Las más innovadoras y por tanto, aquellas que implementaremos son: 
