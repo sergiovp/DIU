@@ -55,9 +55,9 @@ Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de
 ##### Búsqueda
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda.png)
 
-##### Busqueda avanzada
+##### Búsqueda avanzada
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda_avanzada.png)
 
-##### Piso
+##### Pisos
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/pisos.png)
 
