@@ -43,21 +43,32 @@ En nuestro caso, consideramos más adecuada la matriz de tareas pues permite vis
 
 Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de interfaz.
 
-# Inicio
+## Inicio
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/inicio.png)
+
+---
 
 ## Entra 
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/entra.png)
 
-### Regístrate
+---
+
+## Regístrate
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/registrate.png)
 
-##### Búsqueda
+---
+
+## Búsqueda
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda.png)
 
-##### Búsqueda avanzada
+---
+
+## Búsqueda avanzada
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda_avanzada.png)
 
-##### Pisos
+---
+
+## Pisos (resultados búsqueda)
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/pisos.png)
 
+---
