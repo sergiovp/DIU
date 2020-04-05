@@ -36,7 +36,7 @@ En nuestro caso, consideramos más adecuada la matriz de tareas pues permite vis
 ![Método UX](../img/labelling.png) 2.c Labelling 
 ----
 
-
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/labelling.png)
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
