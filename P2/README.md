@@ -28,6 +28,8 @@ Se creará también el sitemap, que propone una organización lógica de la nave
 
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/matriz.png)
 
+En nuestro caso, consideramos más adecuada la matriz de tareas pues permite visualizar fácil e intuitivamente qué funcionalidades serán más importantes para unos usuarios u otros, permitiendo de un vistazo diferenciar la frecuencia de uso que le dará cada uno.
+
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/sitemap.png)
 
 
