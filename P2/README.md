@@ -77,3 +77,8 @@ Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/tour.png)
 
 ---
+
+## Publica habitación
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/publica.png)
+
+---
