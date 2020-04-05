@@ -37,12 +37,6 @@ En nuestro caso, consideramos más adecuada la matriz de tareas pues permite vis
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
 
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
