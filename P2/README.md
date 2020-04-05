@@ -6,21 +6,14 @@
 ![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/malla.png)
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+
+Destacan varias funcionalidades en nuestra aplicación. Las más innovadoras y por tanto, aquellas que implementaremos son: 
+
++ La inclusión de un **recorrido mediante realidad virtual** a través de las viviendas mediante botones
++ Un **chat en directo**, a través del cual nos podremos comunicar con los administradores en tiempo real gracias a un menú desplegable de mensajes a modo de guía para el usuario 
++ Mecanismos de interacción novedosos como la posibilidad de comunicarte por Whatsapp directamente con el dueño de la vivienda mediante un icono que abrirá una conversación automáticamente
++ También será posible valorar y comentar las viviendas así como hacer un seguimiento del historial de uso de las mismas
 
 ![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
