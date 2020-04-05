@@ -66,15 +66,35 @@ Calificación final obtenida de **72** sobre **100**.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+En esta primera parte construiremos una malla receptora de información o capture grid, que consiste en elaborar un cuadrante con 4 apartados: aspectos positivos, críticas constructivas, preguntas de los usuarios e ideas de mejora.
+
+También incluiremos las propuestas de valor de nuestra aplicación.
+
+Destacan varias funcionalidades en nuestra aplicación. Las más innovadoras y por tanto, aquellas que implementaremos son: 
+
++ La inclusión de un **recorrido mediante realidad virtual** a través de las viviendas mediante botones
++ Un **chat en directo**, a través del cual nos podremos comunicar con los administradores en tiempo real gracias a un menú desplegable de mensajes a modo de guía para el usuario 
++ Mecanismos de interacción novedosos como la posibilidad de comunicarte por Whatsapp directamente con el dueño de la vivienda mediante un icono que abrirá una conversación automáticamente
++ También será posible valorar y comentar las viviendas así como hacer un seguimiento del historial de uso de las mismas
+
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+
+A continuación, se realiza una matriz de tareas/usuarios, la cual se compone de una lista de tareas en filas y los perfiles de los usuarios en las columnas. Se indicará para cada caso su frecuencia de uso (Low/Moderate/High).
+
+Se creará también el sitemap, que propone una organización lógica de la navegación.
+
+En nuestro caso, consideramos más adecuada la matriz de tareas pues permite visualizar fácil e intuitivamente qué funcionalidades serán más importantes para unos usuarios u otros, permitiendo de un vistazo diferenciar la frecuencia de uso que le dará cada uno.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+Dentro de las ideas innovadoras se engloban el chat online, que permitirá una comunicación fluida con el personal de soporte. El tour virtual, que de manera novedosa muestra la vivienda al usuario mediante realidad virtual o valorar/comentar, para que los próximos usuarios sepan de experiencias anteriores. Por último, también se podrá ver el historial de uso para saber si un piso ha sido alquilado más o menos veces.
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+
+Los bocetos de la interfaz de la página.
 
 ---
 
