@@ -41,5 +41,25 @@ En nuestro caso, consideramos más adecuada la matriz de tareas pues permite vis
 ![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de interfaz.
 
+##### Inicio
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/inicio.png)
+
+##### Entra 
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/entra.png)
+
+##### Regístrate
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/registrate.png)
+
+##### Búsqueda
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda.png)
+
+##### Busqueda avanzada
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/busqueda_avanzada.png)
+
+##### Piso
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/piso.png)
+
+##### Regístrate
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/registrate.png)
