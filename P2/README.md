@@ -83,5 +83,3 @@ Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de
 La siguiente imagen simula el formulario a rellenar por parte del usuario, para el cual se hace scroll vertical.
 
 ![](https://github.com/sergiovp/DIU/blob/master/P2/images/publica.png)
-
----
