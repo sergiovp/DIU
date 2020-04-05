@@ -73,4 +73,7 @@ Ahora presentamos los bocetos Lo-Fi de la mayoría de las distintas pantallas de
 
 ---
 
+## Tour realidad aumentada
+![](https://github.com/sergiovp/DIU/blob/master/P2/images/tour.png)
 
+---
