@@ -24,7 +24,7 @@ Destacan varias funcionalidades en nuestra aplicación. Las más innovadoras y p
 
 A continuación, se realiza una matriz de tareas/usuarios, la cual se compone de una lista de tareas en filas y los perfiles de los usuarios en las columnas. Se indicará para cada caso su frecuencia de uso (Low/Moderate/High).
 
-![](https://github.com/sergiovp/DIU/blob/master/P2/images/matriz.png)
+<center>https://github.com/sergiovp/DIU/blob/master/P2/images/matriz.png</center>
 
 
 ![Método UX](../img/labelling.png) 2.c Labelling 
