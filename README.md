@@ -113,9 +113,12 @@ Los bocetos de la interfaz de la página.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
 
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para el diseño del logotipo, hemos utilizado la página [freelogodesign](https://es.freelogodesign.org) la cual permite crear logos de manera sencilla. El inconveniente es que la versión gratuita no te permite modificar la resolución del logo, por lo que en nuestro caso, es de *200x200px* en formato *png*.
+
+Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualquier red social, la deberíamos de adaptar, ya que de no ser así, no se vería correctamente. La deberíamos de hacer más "rectangular" o apaisada con el fin de que se apropie mejor al formato de las cabeceras.
+
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
