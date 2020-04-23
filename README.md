@@ -10,7 +10,8 @@ otros lugares de forma alternativas (sofá) y muy económicas (alternativas a un
 económica). Algunos ejemplos son Badi, Couchsurfing, CompartetuPiso, etc.
 (https://mejores.app/las-apps-que-tienes-que-conocer-si-compartes-piso/)
 
-Logotipo: 
+Logotipo:
+
 ![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
 
 Miembros
