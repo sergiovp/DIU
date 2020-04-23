@@ -9,9 +9,17 @@ Los pasos que siguieron son los siguientes:
 
 #### 1.1. User Research
 
+Antes de comenzar con las entrevistas a usuarios reales, los estudiantes comenzaron a intercambiar ideas sobre suposiciones de los posibles usuarios objetivo y sus necesidades, entre las que encontramos usuarios con intereses en arte callejero, que invierten tiempo en ello y a los que les gusta opinar sobre lo que ven.
+
 #### 1.2. Contextual Inquiry
 
+Los estudiantes decidieron hacer "excursiones" para poder ver de primera mano cómo la gente interactúa con el arte público. Descubrieron que la gente solía contemplar el arte durante uno o dos minutos y echarse fotos.
+
 #### 1.3. Competitive Analysis
+
+Decidieron mirar otras aplicaciones parecidas a lo que ellos querían con el fin de saber qué características aportaban.
+Las aplicaciones solían incorporar mapas interactivos y funciones para compartir en las redes sociales.
+Lo que no incorporaban las aplicaciones era una sección para recomendaciones o valoraciones sobre las obras.
 
 #### 1.4. Empathy Map
 
