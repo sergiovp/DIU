@@ -113,7 +113,8 @@ Los bocetos de la interfaz de la página.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
-
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo1.png)
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo2.png)
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
