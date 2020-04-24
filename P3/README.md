@@ -27,7 +27,7 @@ Lluvia de ideas y creación de un mapa de empatía sobre el uso potencial de la 
 
 #### 1.5. User Interviews
 
-Los diseñadores realizaron una encuesta online, seleccionando a varios usuarios a los que finalmente se les entrevistaría.
+Los diseñadores realizaron una encuesta online, recibieron muchas respuestas de las cuales seleccionaron a las personas que consideraron adecuadas a los que finalmente se les entrevistaría.
 
 #### 1.6. Affinity Mapping
 
@@ -46,11 +46,20 @@ Se desarrolló un *user journey*, en el cual Tom caminaba hacia el gimnasio, se 
 
 #### 1.9. Experience Map
 
-Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *mapa de experiencia*. 
+Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *mapa de experiencia* donde se muestra las acciones que Tom realizó a lo largo de su experiencia así como una escala que refleja las emociones de Tom a lo largo de su experiencia. Por otra parte, se muestra una sección en la cual se realiza un análisis de las tareas que Tom va haciendo de manera más exhaustiva.
+
 
 #### 1.10. Problem Statement
 
-Planteamiento del problema.
+Planteamiento del problema. En este punto se plantean cuestiones sobre como podrían ayudar a los usuarios a resolver algunas tareas como las siguientes:
+
++ ¿Sería posible ayudar a los usuarios a descubrir oportunidades para tomar fotos de contenido inusual?
+
++ ¿Podemos hacer que para la gente ver Arte Público sea estimulante en lugar de rápido?
+
++ ¿Hasta qué punto es posible prologar la interacción de la gente con el Arte Público?
+
+Tras este planteamiento, se realiza lo que se conoce como **declaración de hipótesis**, en la cual se establece una especulación acerca de lo que se va a conseguir si se siguen unas pautas previamente fijadas. 
 
 #### 1.11. User Flow
 
@@ -58,7 +67,7 @@ Comenzamos definiendo el flujo de usuarios para Tom usando la aplicación cuando
 
 #### 1.12. Design Studio
 
-En este apartado se desarrollan los bocetos iniciales.
+Se reunen en el estudio los desarrolladores para empezar con la ideación de los bocetos iniciales de cómo debería ser la aplicación.
 
 #### 1.13. Feature Prioritisation
 
@@ -67,7 +76,9 @@ Se realizó con una matriz 2x2 en la que reflejaban la importancia o no sobre lo
 
 #### 1.14. 1st Iteration of Paper Prototype
 
-Primer prototipo en papel que le dieron a los usuarios. Estos no entendían la aplicación ni el funcionamiento de esta.
+Toman la iniciativa de crear los primeros prototipos en papel, los cuales advierten las intenciones de estos desarrolladores en cuanto al desarrollo de esta aplicación. 
+
+Los bocetos incluyen futuras funcionalidades como que un usuario pueda subir una foto. Posteriormente, la foto podría ser vista y calificada por otros usuarios de forma que existan diferentes fotos y calificaciones relacionadas con la misma obra de arte.
 
 #### 1.15. Usability Testing 1st Round- with Paper Prototype
 
