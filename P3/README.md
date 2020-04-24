@@ -27,7 +27,7 @@ Lluvia de ideas y creación de un mapa de empatía sobre el uso potencial de la 
 
 #### 1.5. User Interviews
 
-Los diseñadores realizaron una encuesta online, seleccionando a varios usuarios a los que finalmente se les entrevistaría.
+Los diseñadores realizaron una encuesta online, recibieron muchas respuestas de las cuales seleccionaron a las personas que consideraron adecuadas a los que finalmente se les entrevistaría.
 
 #### 1.6. Affinity Mapping
 
