@@ -23,19 +23,30 @@ Lo que no incorporaban las aplicaciones era una sección para recomendaciones o 
 
 #### 1.4. Empathy Map
 
+Lluvia de ideas y creación de un mapa de empatía sobre el uso potencial de la aplicación con el fin de poder formular las preguntas correctas para las entrevistas planificadas a los usuarios.
+
 #### 1.5. User Interviews
+
+Los diseñadores realizaron una encuesta online, seleccionando a varios usuarios a los que finalmente se les entrevistaría.
 
 #### 1.6. Affinity Mapping
 
+Tras las entrevistas con los usuarios, pusieron los datos recogidos en conjunto y compararon con sus suposiciones iniciales, descubriendo que había diferencias.
+
 #### 1.7. User Personas
 
-#### 1.8. User Goals
+Se crearon dos personas ficticias con el fin de identificar las metas y puntos débiles del usuario final. Se especifica la biografía, metas y frustaciones de cada persona.
 
-#### 1.9. User Pain Points
+En nuestra opinión, la creación de las personas es muy forzada y orientada a la aplicación. En este caso, Tom ha sido creado para estar en desacuerdo con la aplicación, al contrario de lo que ocurre con Jan, cuyas metas son muy semejantes a lo que nos ofrece la aplicación.
+Desde nuestro punto de vista, deberían de haber creado dos usuarios más "usuales" o comunes. 
 
 #### 1.10. User Journey
 
+Se desarrolló un *user journey*, en el cual Tom caminaba hacia el gimnasio, se topaba con arte callejero y no era capaz de encontrar ninguna información del artista.
+
 #### 1.11. Experience Map
+
+Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *mapa de experiencia*. 
 
 #### 1.12. Problem Statement
 
