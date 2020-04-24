@@ -149,7 +149,7 @@ Como conclusión se escoge la fuente Display para títulos y subtítulos, Arial 
 
 Se ha usado la [herramienta que proporciona Google](https://material.io/), para escoger los colores que usaremos en el diseño de la app. Dicha Web aporta además un asistente que permite fácilmente escoger la apariencia deseada. Para nuestra paleta de colores se han escogido colores pastel bien contrastados entre sí.
 
-+ Color primario: **#ffe082**
++ Color primario: **#76ff6f**
 + Color secundario: **#c1d0d9**
 
 ![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
