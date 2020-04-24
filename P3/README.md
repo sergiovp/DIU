@@ -112,6 +112,10 @@ Como conclusión, después del primer prototipo creado, se comenzó a hablar sob
 
 #### 1.22. Conclusiones
 
+A la vista del estudio de caso de la experiencia de usuario para la aplicación MuseMap, concluimos que nos parece muy adecuado el estudio que han hecho los desarrolladores, realizando entrevistas a usuarios reales y teniendo en cuenta sus opiniones. Pensamos por otra parte, que han sido de mucha utilidad que se haya hecho un mapa de empatía y se hayan estudiado las costumbres in situ de la gente que visita y descubre obras de arte, descubriendo de esta forma las posibles bazas que tendría su aplicación.
+
+Los desarrolladores han sabido ver sus propios errores, aprender de ellos y aportar soluciones a los mismos, creando así una aplicación innovadora fomentando el arte callejero, fácil de usar y con una misión clara: **compartir el arte**.
+
 
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 
