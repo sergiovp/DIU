@@ -50,28 +50,51 @@ Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *
 
 #### 1.12. Problem Statement
 
+Planteamiento del problema.
+
 #### 1.13. User Flow
+
+Comenzamos definiendo el flujo de usuarios para Tom usando la aplicación cuando tratamos de encontrar una obra de arte interesante cerca de él, a partir de ahí obtiene instrucciones para llegar al lugar y toma una foto para compartirla en las redes sociales.
 
 #### 1.14. Design Studio
 
+En este apartado se desarrollan los bocetos iniciales.
+
 #### 1.15. Feature Prioritisation
+
+Priorización de funciones a implementar.
 
 #### 1.16. 1st Iteration of Paper Prototype
 
+Primer prototipo en papel.
+
 #### 1.17. Usability Testing 1st Round- with Paper Prototype
+
+Tras el primer test los usuarios se encuentran confundidos con algunas cuestiones básicas, lo cual provoca que los desarrolladores se encuentren ante un callejón sin salida, y se planteen hacer un nuevo prototipo de papel.
 
 #### 1.18. 2nd Iteration of Paper Prototype
 
+Tras un largo debate, plantean bocetos muy diferentes centrados en un mapa interactivo con recomendaciones de sitios donde ver arte público y poder hacer fotos del mismo.
+
 #### 1.19. Hi-Fi Digital Wireframes
+
+La realización de estos wireframes aporta una idea más fiable de lo que será en un final la aplicación pues con el diseño mostrado se refleja de manera evidente las distintas funcionalidades que tendrá. 
 
 #### 1.20. Evolution of the Filter Page
 
+Se muestra una evolución de cómo han ido adaptando el boceto inicial de la página de filtrado hasta la etapa final mostrando el boceto de alta definición lo cual da una idea de la cantidad de pasos que se han dado hasta ajustar la aplicación a los requerimientos de la misma
+
 #### 1.21. SiteMap
+
+Se ha realizado un SiteMap al estilo del que se hizo en la Práctica 2, aunque en este caso se ha reflejado de forma gráfica pues adjuntan los bocetos finales de alta definición de cada parte de la aplicación para mostrar la navegabilidad a través de la página.
 
 #### 1.22. Style guide
 
+En este caso, han usado una fuente clara y moderna que permita una representación adecuada de los textos así como unos colores bien diferenciados lo cual mejora la experiencia.
+
 #### 1.23. Final Mock-Ups
 
+Los diseñadores han puesto en práctica unos prototipos finales de alta definición que reflejan con detalle lo que se espera de la aplicación durante su ejecución así como la visualización de la misma.
 
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 

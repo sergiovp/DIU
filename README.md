@@ -1,144 +1,184 @@
-# DIU - Practica 3, entregables
+# DIU20
+Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-## 1. Análisis de MuseMap   
+Grupo: DIU2_SVPJ.  Curso: 2019/20 
 
-En esta fase analizaremos los métodos UX que un grupo de estudiantes llevaron a cabo para el desarrollo de una aplicación llamada **MuseMap**, la cual pretende dar créditos a artistas callejeros.
-De esta forma, la gente podrá consultar información más detalla sobre las obras de arte callejero en Londres, [fuente](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b).
+Proyecto: Experiencia de compartir alojamiento
 
-Los pasos que siguieron son los siguientes:
+Descripción: Plataformas que te permiten compartir compañeros (para un piso de estudiantes), desplazarte a
+otros lugares de forma alternativas (sofá) y muy económicas (alternativas a una transacción
+económica). Algunos ejemplos son Badi, Couchsurfing, CompartetuPiso, etc.
+(https://mejores.app/las-apps-que-tienes-que-conocer-si-compartes-piso/)
 
-#### 1.1. User Research
+Logotipo:
 
-Antes de comenzar con las entrevistas a usuarios reales, los estudiantes comenzaron a intercambiar ideas sobre suposiciones de los posibles usuarios objetivo y sus necesidades, entre las que encontramos usuarios con intereses en arte callejero, que invierten tiempo en ello y a los que les gusta opinar sobre lo que ven.
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
 
-#### 1.2. Contextual Inquiry
+Miembros
+ * :bust_in_silhouette:   Sergio Vela Pelegrina     :octocat: [GitHub](https://github.com/sergiovp)
+ * :bust_in_silhouette:  Pablo Jesús Jiménez Ortiz     :octocat: [GitHub](https://github.com/pabloj121)
 
-Los estudiantes decidieron hacer "excursiones" para poder ver de primera mano cómo la gente interactúa con el arte público. Descubrieron que la gente solía contemplar el arte durante uno o dos minutos y echarse fotos.
+----- 
 
-#### 1.3. Competitive Analysis
+En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) 
 
-Decidieron mirar otras aplicaciones parecidas a lo que ellos querían con el fin de saber qué características aportaban.
-Las aplicaciones solían incorporar mapas interactivos y funciones para compartir en las redes sociales.
-Lo que no incorporaban las aplicaciones era una sección para recomendaciones o valoraciones sobre las obras.
 
-#### 1.4. Empathy Map
+Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
 
-Lluvia de ideas y creación de un mapa de empatía sobre el uso potencial de la aplicación con el fin de poder formular las preguntas correctas para las entrevistas planificadas a los usuarios.
 
-#### 1.5. User Interviews
+# Proceso de Diseño 
 
-Los diseñadores realizaron una encuesta online, seleccionando a varios usuarios a los que finalmente se les entrevistaría.
+## Paso 1. UX Desk Research & Analisis 
 
-#### 1.6. Affinity Mapping
+![Método UX](img/Competitive.png) 1.a Competitive Analysis
+-----
 
-Tras las entrevistas con los usuarios, pusieron los datos recogidos en conjunto y compararon con sus suposiciones iniciales, descubriendo que había diferencias.
+La plataforma elegida para el estudio será [pisocompartido](https://www.pisocompartido.com).
+La interfaz de dicha página es muy intuitiva, ofrece un diseño **responsive**, viéndose de manera adecuada en todo momento. Además, la navegación es agradable por los colores usados. También ofrece la posibilidad de ponerte en contacto de manera directa con Whatsapp desde la propia Web, cosa que no ofrecen la mayoria de portales de la competencia. Sin embargo, vemos suficientes lagunas en esta web, que serán analizadas a lo largo de estas prácticas. Algunas de ellas son por ejemplo, la falta de información acerca de la accesibilidad a los edificios para personas minusválidas o tener en cuenta el transporte público a la hora de elegir piso.
 
-#### 1.7. User Personas
+![Método UX](img/Persona.png) 1.b Persona
+-----
 
-Se crearon dos personas ficticias con el fin de identificar las metas y puntos débiles del usuario final. Se especifica la biografía, metas y frustaciones de cada persona.
+Las personas seleccionadas son **Germán y Eva**.
 
-En nuestra opinión, la creación de las personas es muy forzada y orientada a la aplicación. En este caso, Tom ha sido creado para estar en desacuerdo con la aplicación, al contrario de lo que ocurre con Jan, cuyas metas son muy semejantes a lo que nos ofrece la aplicación.
-Desde nuestro punto de vista, deberían de haber creado dos usuarios más "usuales" o comunes. 
 
-#### 1.10. User Journey
 
-Se desarrolló un *user journey*, en el cual Tom caminaba hacia el gimnasio, se topaba con arte callejero y no era capaz de encontrar ninguna información del artista.
+![Método UX](img/JourneyMap.png) 1.c User Journey Map
+----
 
-#### 1.11. Experience Map
+La experiencia de **Germán**, se ha escogido para reflejar el problema que puede suponer el no tener un chat online
+para mantenerte en contacto con los administradores de la web.
 
-Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *mapa de experiencia*. 
+En cuanto a **Eva**, hemos querido reflejar el problema de poder tener **búsquedas por comunidad autónoma** en la página.
 
-#### 1.12. Problem Statement
+![Método UX](img/usabilityReview.png) 1.d Usability Review
+----
 
-Planteamiento del problema.
+Calificación final obtenida de **72** sobre **100**.
 
-#### 1.13. User Flow
+---
 
-Comenzamos definiendo el flujo de usuarios para Tom usando la aplicación cuando tratamos de encontrar una obra de arte interesante cerca de él, a partir de ahí obtiene instrucciones para llegar al lugar y toma una foto para compartirla en las redes sociales.
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P1](https://github.com/sergiovp/DIU/tree/master/P1).
 
-#### 1.14. Design Studio
+---
 
-En este apartado se desarrollan los bocetos iniciales.
+## Paso 2. UX Design  
 
-#### 1.15. Feature Prioritisation
 
-Priorización de funciones a implementar.
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+----
 
-#### 1.16. 1st Iteration of Paper Prototype
+En esta primera parte construiremos una malla receptora de información o capture grid, que consiste en elaborar un cuadrante con 4 apartados: aspectos positivos, críticas constructivas, preguntas de los usuarios e ideas de mejora.
 
-Primer prototipo en papel.
+También incluiremos las propuestas de valor de nuestra aplicación.
 
-#### 1.17. Usability Testing 1st Round- with Paper Prototype
+Destacan varias funcionalidades en nuestra aplicación. Las más innovadoras y por tanto, aquellas que implementaremos son: 
 
-Tras el primer test los usuarios se encuentran confundidos con algunas cuestiones básicas, lo cual provoca que los desarrolladores se encuentren ante un callejón sin salida, y se planteen hacer un nuevo prototipo de papel.
++ La inclusión de un **recorrido mediante realidad virtual** a través de las viviendas mediante botones
++ Un **chat en directo**, a través del cual nos podremos comunicar con los administradores en tiempo real gracias a un menú desplegable de mensajes a modo de guía para el usuario 
++ Mecanismos de interacción novedosos como la posibilidad de comunicarte por Whatsapp directamente con el dueño de la vivienda mediante un icono que abrirá una conversación automáticamente
++ También será posible valorar y comentar las viviendas así como hacer un seguimiento del historial de uso de las mismas
 
-#### 1.18. 2nd Iteration of Paper Prototype
+![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+-----
 
-Tras un largo debate, plantean bocetos muy diferentes centrados en un mapa interactivo con recomendaciones de sitios donde ver arte público y poder hacer fotos del mismo.
+A continuación, se realiza una matriz de tareas/usuarios, la cual se compone de una lista de tareas en filas y los perfiles de los usuarios en las columnas. Se indicará para cada caso su frecuencia de uso (Low/Moderate/High).
 
-#### 1.19. Hi-Fi Digital Wireframes
+Se creará también el sitemap, que propone una organización lógica de la navegación.
 
-La realización de estos wireframes aporta una idea más fiable de lo que será en un final la aplicación pues con el diseño mostrado se refleja de manera evidente las distintas funcionalidades que tendrá. 
+En nuestro caso, consideramos más adecuada la matriz de tareas pues permite visualizar fácil e intuitivamente qué funcionalidades serán más importantes para unos usuarios u otros, permitiendo de un vistazo diferenciar la frecuencia de uso que le dará cada uno.
 
-#### 1.20. Evolution of the Filter Page
+![Método UX](img/labelling.png) 2.c Labelling 
+----
 
-Se muestra una evolución de cómo han ido adaptando el boceto inicial de la página de filtrado hasta la etapa final mostrando el boceto de alta definición lo cual da una idea de la cantidad de pasos que se han dado hasta ajustar la aplicación a los requerimientos de la misma
+Dentro de las ideas innovadoras se engloban el chat online, que permitirá una comunicación fluida con el personal de soporte. El tour virtual, que de manera novedosa muestra la vivienda al usuario mediante realidad virtual o valorar/comentar, para que los próximos usuarios sepan de experiencias anteriores. Por último, también se podrá ver el historial de uso para saber si un piso ha sido alquilado más o menos veces.
 
-#### 1.21. SiteMap
+![Método UX](img/Wireframes.png) 2.d Wireframes
+-----
 
-Se ha realizado un SiteMap al estilo del que se hizo en la Práctica 2, aunque en este caso se ha reflejado de forma gráfica pues adjuntan los bocetos finales de alta definición de cada parte de la aplicación para mostrar la navegabilidad a través de la página.
+Los bocetos de la interfaz de la página.
 
-#### 1.22. Style guide
+---
 
-En este caso, han usado una fuente clara y moderna que permita una representación adecuada de los textos así como unos colores bien diferenciados lo cual mejora la experiencia.
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P2](https://github.com/sergiovp/DIU/tree/master/P2).
 
-#### 1.23. Final Mock-Ups
+---
 
-Los diseñadores han puesto en práctica unos prototipos finales de alta definición que reflejan con detalle lo que se espera de la aplicación durante su ejecución así como la visualización de la misma.
+## Paso 3. Mi equipo UX-Case Study 
 
-## 2. Propuesta de elementos de diseño o patrones a usar 
 
-#### 2.1. Introducción
+![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
+-----
 
-Los patrones de diseño que usaremos tienen su reflejo en la [guía de Google](https://www.thinkwithgoogle.com/_qs/documents/1714/Google_Guia_UX_uBbvE4i.pdf), la cual aporta buenas prácticas a la hora de diseñar una aplicación y hacer que los usuarios se vean atraídos por la misma. Algunos de los criterios a seguir en nuestro diseño son los siguientes:
 
-+ Se debe ofrecer una utilidad clara antes de solicitar a los usuarios que se registren. Solo se solicita a un usuario que se registre si es esencial que lo haga. 
+>>> Analizar lo aprendido de la experiencia MuseApp 
+![Método UX](img/landing-page.png)  3.b Logotipo
+----
 
-+ Hacer que la autenticación de contraseñas sea una experiencia sin inconvenientes, minimizando la cantidad de pasos requeridos o usando métodos de autenticación alternativos, como el acceso a través de cuentas externas o mediante el reconocimiento de huellas digitales.
+Para el diseño del logotipo, hemos utilizado la página [freelogodesign](https://es.freelogodesign.org) la cual permite crear logos de manera sencilla. El inconveniente es que la versión gratuita no te permite modificar la resolución del logo, por lo que en nuestro caso, es de *200x200px* en formato *png*.
 
-+ Campo de búsqueda: se situará en una posición privilegiada y estará disponible en todo momento pues consideramos que este elemento es uno de los más importantes dentro de la aplicación.
+Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualquier red social, la deberíamos de adaptar, ya que de no ser así, no se vería correctamente. La deberíamos de hacer más "rectangular" o apaisada con el fin de que se apropie mejor al formato de las cabeceras.
 
-+ Se proveen filtros de búsqueda y opciones de ordenamiento para ayudar al usuario a reducir los resultados.
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/logo.png)
 
-+ Se destacan las características clave y nuevas en el contexto, en el lugar que corresponda de la aplicación, de modo que resulten interesantes y deleitables, y no frustrantes y confusas.
+![Método UX](img/guidelines.png) 3.c Guidelines
+----
 
-+ Los usuarios pueden comparar varias casas en simultáneo gracias a la herramienta de comparación.
+>>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![Método UX](img/mockup.png)  3.d Video
+----
 
-+ Los usuarios disponen de varios métodos de pago, así como editar estas opciones de pago o agregar nuevas.
+>>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+## Paso 4. UX Check (Usability Testing) 
 
-#### 2.2. Tipografía
 
-Como referencia, se ha seguido la [guía de Google](https://design.google/library/choosing-web-fonts-beginners-guide/) que en este aspecto, cubre un gran espectro de opciones y tutoriales sobre casi cualquier cosa acerca de tipografía en la Web y consejos acerca de este tema. Algunas de las frases más destacadas y que han servido de referencia para elegir la tipografía han sido:
+![Método UX](img/ABtesting.png) 4.a A/B Testing
+----
 
- “Para los titulares y subtítulos, puede elegir una fuente expresiva, única e incluso idiosincrásica, incluyendo los estilos Display, Decorative, Handwritten y Script. Estos diseños poco convencionales y de alto contraste tienden a funcionar bien en este contexto porque sus detalles y complejidad visual ayudan a atraer la mirada”.
 
-En el caso de las fuentes de texto normal, en concreto, aquel texto que se usará en descripciones dentro de la aplicación y demás, usaremos una selección de algunas de las fuentes más comunes, por ejemplo la popular fuente Arial . Otra de las frases que han servido como referencia es la que sigue:
+>>> Comprobacion de asignaciones para A/B Testing. Asignaciones https://github.com/mgea/DIU19/blob/master/ABtesting.md
+>>>> Práctica A: 
 
-“En el caso de fuentes para trozos cortos de texto, especialmente en tamaños grandes, la anchura normal tiende a parecer un poco fuera de lugar. Algunas fuentes como Playfair Display o Rufina suelen funcionar bien en líneas cortas ya que su alto contraste de trazos tiende a captar la atención del lector”.
+![Método UX](img/usability-testing.png) 4.b User Testing
+----
 
-Como conclusión se escoge la fuente Display para títulos y subtítulos, Arial para el considerado como “texto normal” (arriba referenciado) y para casos especiales de texto corto con un tamaño grande se escogerá la fuente Playfair Display.
+>>> Usuarios para evaluar prácticas 
 
-#### 2.3. Paleta de colores
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
-Se ha usado la [herramienta que proporciona Google](https://material.io/), para escoger los colores que usaremos en el diseño de la app. Dicha Web aporta además un asistente que permite fácilmente escoger la apariencia deseada. Para nuestra paleta de colores se han escogido colores pastel bien contrastados entre sí.
 
-+ Color primario: **#ffe082**
-+ Color secundario: **#c1d0d9**
+![Método UX](img/Survey.png). 4.c Cuestionario SUS
+----
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.jpg)
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
-## Historia en Video del UX Case Study
+![Método UX](img/usability-report.png) 4.c Usability Report
+----
 
+>> Añadir report de usabilidad para práctica B 
 
-## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+
+## Paso 5. Evaluación de Accesibilidad  
+
+
+![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
+----
+
+>>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
+>>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
+
+
+## Conclusión / Valoración de las prácticas
+
+
+>>> (90-150 caracteres) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+
+
