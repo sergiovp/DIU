@@ -40,16 +40,16 @@ Se crearon dos personas ficticias con el fin de identificar las metas y puntos d
 En nuestra opinión, la creación de las personas es muy forzada y orientada a la aplicación. En este caso, Tom ha sido creado para estar en desacuerdo con la aplicación, al contrario de lo que ocurre con Jan, cuyas metas son muy semejantes a lo que nos ofrece la aplicación.
 Desde nuestro punto de vista, deberían de haber creado dos usuarios más "usuales" o comunes. 
 
-#### 1.10. User Journey
+#### 1.8. User Journey
 
 Se desarrolló un *user journey*, en el cual Tom caminaba hacia el gimnasio, se topaba con arte callejero y no era capaz de encontrar ninguna información del artista.
 
-#### 1.11. Experience Map
+#### 1.9. Experience Map
 
 Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *mapa de experiencia* donde se muestra las acciones que Tom realizó a lo largo de su experiencia así como una escala que refleja las emociones de Tom a lo largo de su experiencia. Por otra parte, se muestra una sección en la cual se realiza un análisis de las tareas que Tom va haciendo de manera más exhaustiva.
 
 
-#### 1.12. Problem Statement
+#### 1.10. Problem Statement
 
 Planteamiento del problema. En este punto se plantean cuestiones sobre como podrían ayudar a los usuarios a resolver algunas tareas como las siguientes:
 
@@ -61,51 +61,57 @@ Planteamiento del problema. En este punto se plantean cuestiones sobre como podr
 
 Tras este planteamiento, se realiza lo que se conoce como **declaración de hipótesis**, en la cual se establece una especulación acerca de lo que se va a conseguir si se siguen unas pautas previamente fijadas. 
 
-#### 1.13. User Flow
+#### 1.11. User Flow
 
 Comenzamos definiendo el flujo de usuarios para Tom usando la aplicación cuando tratamos de encontrar una obra de arte interesante cerca de él, a partir de ahí obtiene instrucciones para llegar al lugar y toma una foto para compartirla en las redes sociales.
 
-#### 1.14. Design Studio
+#### 1.12. Design Studio
 
 Se reunen en el estudio los desarrolladores para empezar con la ideación de los bocetos iniciales de cómo debería ser la aplicación. Esta sesión trajo algunos resultados interesantes para la página de inicio, como por ejemplo un mapa interactivo con puntos de acceso para desbloquear "piezas de arte secretas".
 
-#### 1.15. Feature Prioritisation
+#### 1.13. Feature Prioritisation
 
-Priorización de funciones a implementar, en las que decidieron centrarse en contenido de medios sociales, en la función de cámara de la aplicación y las próximas obras de arte.
+Priorización de funciones a implementar.
+Se realizó con una matriz 2x2 en la que reflejaban la importancia o no sobre los aspectos a desarrollar, al igual que su nivel de dificultad de implementación.
 
-#### 1.16. 1st Iteration of Paper Prototype
+#### 1.14. 1st Iteration of Paper Prototype
 
 Toman la iniciativa de crear los primeros prototipos en papel, los cuales advierten las intenciones de estos desarrolladores en cuanto al desarrollo de esta aplicación. 
 
 Los bocetos incluyen futuras funcionalidades como que un usuario pueda subir una foto. Posteriormente, la foto podría ser vista y calificada por otros usuarios de forma que existan diferentes fotos y calificaciones relacionadas con la misma obra de arte.
 
-#### 1.17. Usability Testing 1st Round- with Paper Prototype
+#### 1.15. Usability Testing 1st Round- with Paper Prototype
 
 Tras el primer test los usuarios se encuentran confundidos con algunas cuestiones básicas, lo cual provoca que los desarrolladores se encuentren ante un callejón sin salida, y se planteen hacer un nuevo prototipo de papel.
 
-#### 1.18. 2nd Iteration of Paper Prototype
+#### 1.16. 2nd Iteration of Paper Prototype
 
 Tras un largo debate, plantean bocetos muy diferentes centrados en un mapa interactivo con recomendaciones de sitios donde ver arte público y poder hacer fotos del mismo.
 
-#### 1.19. Hi-Fi Digital Wireframes
+#### 1.17. Hi-Fi Digital Wireframes
 
 La realización de estos wireframes aporta una idea más fiable de lo que será en un final la aplicación pues con el diseño mostrado se refleja de manera evidente las distintas funcionalidades que tendrá. 
+Se realizó también un segundo testeo con usuarios con el fin de obtener información/opiniones de parte de estos.
 
-#### 1.20. Evolution of the Filter Page
+#### 1.18. SiteMap
 
-Se muestra una evolución de cómo han ido adaptando el boceto inicial de la página de filtrado hasta la etapa final mostrando el boceto de alta definición lo cual da una idea de la cantidad de pasos que se han dado hasta ajustar la aplicación a los requerimientos de la misma
+Se ha realizado un SiteMap al estilo del que hicimos en la Práctica 2, aunque en este caso se ha reflejado de forma gráfica pues adjuntan los bocetos finales de alta definición de cada parte de la aplicación para mostrar la navegabilidad a través de la página. 
+Pensamos que en esta parte del diseño, es preferible tener más clara la disposición y el esquema que tendrá nuestra aplicación que el diseño tan detallado de la interfaz.
 
-#### 1.21. SiteMap
-
-Se ha realizado un SiteMap al estilo del que se hizo en la Práctica 2, aunque en este caso se ha reflejado de forma gráfica pues adjuntan los bocetos finales de alta definición de cada parte de la aplicación para mostrar la navegabilidad a través de la página.
-
-#### 1.22. Style guide
+#### 1.19. Style guide
 
 En este caso, han usado una fuente clara y moderna que permita una representación adecuada de los textos así como unos colores bien diferenciados lo cual mejora la experiencia.
+Los iconos resultan intuitivos y reflejan a la perfección su funcionalidad.
 
-#### 1.23. Final Mock-Ups
+#### 1.20. Final Mock-Ups
 
-Los diseñadores han puesto en práctica unos prototipos finales de alta definición que reflejan con detalle lo que se espera de la aplicación durante su ejecución así como la visualización de la misma.
+Los diseñadores han puesto en práctica unos prototipos finales de alta definición. Pensamos que son idóneos llegados a este punto de diseño ya que reflejan con detalle lo que se espera de la aplicación durante su ejecución así como la visualización de la misma.
+
+#### 1.21. Next Steps
+Como conclusión, después del primer prototipo creado, se comenzó a hablar sobre planes de futuro con la aplicación, como por ejemplo realizar más pruebas de usuario, integrar más plataformas de redes sociales o permitir a los usuarios crear su propio perfil.
+
+#### 1.22. Conclusiones
+
 
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 
