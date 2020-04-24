@@ -50,7 +50,15 @@ Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *
 
 #### 1.12. Problem Statement
 
-Planteamiento del problema.
+Planteamiento del problema. En este punto se plantean cuestiones sobre como podrían ayudar a los usuarios a resolver algunas tareas como las siguientes:
+
++ ¿Sería posible ayudar a los usuarios a descubrir oportunidades para tomar fotos de contenido inusual?
+
++ ¿Podemos hacer que para la gente ver Arte Público sea estimulante en lugar de rápido?
+
++ ¿Hasta qué punto es posible prologar la interacción de la gente con el Arte Público?
+
+Tras este planteamiento, se realiza lo que se conoce como **declaración de hipótesis**, en la cual se establece una especulación acerca de lo que se va a conseguir si se siguen unas pautas previamente fijadas. 
 
 #### 1.13. User Flow
 
@@ -58,15 +66,17 @@ Comenzamos definiendo el flujo de usuarios para Tom usando la aplicación cuando
 
 #### 1.14. Design Studio
 
-En este apartado se desarrollan los bocetos iniciales.
+Se reunen en el estudio los desarrolladores para empezar con la ideación de los bocetos iniciales de cómo debería ser la aplicación.
 
 #### 1.15. Feature Prioritisation
 
-Priorización de funciones a implementar.
+Priorización de funciones a implementar, en las que decidieron centrarse en contenido de medios sociales, en la función de cámara de la aplicación y las próximas obras de arte.
 
 #### 1.16. 1st Iteration of Paper Prototype
 
-Primer prototipo en papel.
+Toman la iniciativa de crear los primeros prototipos en papel, los cuales advierten las intenciones de estos desarrolladores en cuanto al desarrollo de esta aplicación. 
+
+Los bocetos incluyen futuras funcionalidades como que un usuario pueda subir una foto. Posteriormente, la foto podría ser vista y calificada por otros usuarios de forma que existan diferentes fotos y calificaciones relacionadas con la misma obra de arte.
 
 #### 1.17. Usability Testing 1st Round- with Paper Prototype
 
