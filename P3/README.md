@@ -67,7 +67,7 @@ Comenzamos definiendo el flujo de usuarios para Tom usando la aplicación cuando
 
 #### 1.14. Design Studio
 
-Se reunen en el estudio los desarrolladores para empezar con la ideación de los bocetos iniciales de cómo debería ser la aplicación.
+Se reunen en el estudio los desarrolladores para empezar con la ideación de los bocetos iniciales de cómo debería ser la aplicación. Esta sesión trajo algunos resultados interesantes para la página de inicio, como por ejemplo un mapa interactivo con puntos de acceso para desbloquear "piezas de arte secretas".
 
 #### 1.15. Feature Prioritisation
 
