@@ -101,6 +101,8 @@ Se ha usado la [herramienta que proporciona Google](https://material.io/), para 
 + Color primario: **#ffe082**
 + Color secundario: **#c1d0d9**
 
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.jpg)
+
 ## Historia en Video del UX Case Study
 
 
