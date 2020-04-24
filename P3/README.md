@@ -46,7 +46,8 @@ Se desarrolló un *user journey*, en el cual Tom caminaba hacia el gimnasio, se 
 
 #### 1.11. Experience Map
 
-Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *mapa de experiencia*. 
+Se profundizó en el camino de Tom hacia el gimnasio con la elaboración de un *mapa de experiencia* donde se muestra las acciones que Tom realizó a lo largo de su experiencia así como una escala que refleja las emociones de Tom a lo largo de su experiencia. Por otra parte, se muestra una sección en la cual se realiza un análisis de las tareas que Tom va haciendo de manera más exhaustiva.
+
 
 #### 1.12. Problem Statement
 
