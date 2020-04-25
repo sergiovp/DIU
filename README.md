@@ -104,7 +104,7 @@ Los bocetos de la interfaz de la página.
 
 ---
 
-## Paso 3. Mi equipo UX-Case Study 
+## Paso 3. SVPJ UX-Case Study 
 
 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
