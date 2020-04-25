@@ -125,7 +125,11 @@ Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualq
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
+
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
+
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
