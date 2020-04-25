@@ -130,7 +130,7 @@ Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualq
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-El enlace al vídeo resumen se encuentra ![aquí](https://youtu.be/jtsOdRgkl14)
+El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14)
 
 
 ## Paso 4. UX Check (Usability Testing) 
