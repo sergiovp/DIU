@@ -110,7 +110,7 @@ Los bocetos de la interfaz de la página.
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-Con la lectura de MuseMap, hemos podido ver cómo los métodos utilizados de diseño en esta práctica y en anteriores se lleva a cabo de proyectos reales. También, hemos conocido otros nuevos métodos.
+Con la lectura de MuseMap, hemos podido ver cómo los métodos utilizados de diseño en esta práctica y en anteriores se lleva a cabo en proyectos reales. También hemos conocido otros nuevos métodos como la priorización de funciones o el empathy map.
 
 En definitiva, a la hora de abordar el diseño de cualquier aplicación, sería ideal ver proyectos de otra gente, con el fin de obtener más ideas y aprender de la experiencia de ellos.
 
@@ -135,7 +135,7 @@ Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualq
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14)
+El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14).
 
 
 ---
