@@ -128,9 +128,9 @@ Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualq
 
 ![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/arial.png)
 
-![](https://github.com/sergiovp/DIU/blob/master/P3/images/colores.png)
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/Playfair-Display-Bold.png)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
