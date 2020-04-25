@@ -131,7 +131,8 @@ Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualq
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14)
+
 
 ---
 
