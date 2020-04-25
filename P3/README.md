@@ -160,6 +160,7 @@ Se ha usado la [herramienta que proporciona Google](https://material.io/), para 
 
 ## Historia en Video del UX Case Study
 
+[![AlquilaPiso](./images/logo.png)](https://youtu.be/jtsOdRgkl14)
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
