@@ -143,9 +143,14 @@ Como referencia, se ha seguido la [guía de Google](https://design.google/librar
 
  “Para los titulares y subtítulos, puede elegir una fuente expresiva, única e incluso idiosincrásica, incluyendo los estilos Display, Decorative, Handwritten y Script. Estos diseños poco convencionales y de alto contraste tienden a funcionar bien en este contexto porque sus detalles y complejidad visual ayudan a atraer la mirada”.
 
+
 En el caso de las fuentes de texto normal, en concreto, aquel texto que se usará en descripciones dentro de la aplicación y demás, usaremos una selección de algunas de las fuentes más comunes, por ejemplo la popular fuente Arial . Otra de las frases que han servido como referencia es la que sigue:
 
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/arial.png)
+
 “En el caso de fuentes para trozos cortos de texto, especialmente en tamaños grandes, la anchura normal tiende a parecer un poco fuera de lugar. Algunas fuentes como Playfair Display o Rufina suelen funcionar bien en líneas cortas ya que su alto contraste de trazos tiende a captar la atención del lector”.
+
+![](https://github.com/sergiovp/DIU/blob/master/P3/images/Playfair-Display-Bold.png)
 
 Como conclusión se escoge la fuente Display para títulos y subtítulos, Arial para el considerado como “texto normal” (arriba referenciado) y para casos especiales de texto corto con un tamaño grande se escogerá la fuente Playfair Display.
 
