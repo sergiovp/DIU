@@ -163,3 +163,10 @@ Se ha usado la [herramienta que proporciona Google](https://material.io/), para 
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
+En general, continuamos mejorando nuestros conocimientos sobre diseños e interfaces de usuario. Quizás al principio de la asignatura, podíamos llegar a pensar que esta rama de la informática no tiene apenas relevancia, impulsándonos a programar directamente sin detenernos antes en las etapas que estamos viendo en las prácticas.
+
+En concreto, hemos podido ver de primera mano cómo el equipo de MuseMap ha utilizado métodos de diseño que nosotros también hemos utilizado. De esta forma, podemos entender de manera más clara a qué problema nos enfrentamos y cuál es la forma ideal de llevarlo a cabo.
+
+Nos han impresionado los patrones de diseño que se siguen cuando la meta a conseguir es la de desarrollar una buena aplicación. En este caso, la documentación ofrecida por Google es muy clara y extensa, resolviendo cualquier problema así como aportando ideas que esclarecen estas tareas.
+
+Quizás la parte más difícil de la práctica haya sido la elaboración del vídeo, ya que hemos tenido que ser muy concisos por el tiempo tan limitado, aunque de esta forma, hemos resaltado los aspectos más relevantes de nuestra aplicación.
