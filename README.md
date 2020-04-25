@@ -140,6 +140,7 @@ El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14)
 
 ---
 
+
 #### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P3](https://github.com/sergiovp/DIU/tree/master/P3).
 
 ---
