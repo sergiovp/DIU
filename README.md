@@ -110,8 +110,9 @@ Los bocetos de la interfaz de la página.
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+Con la lectura de MuseMap, hemos podido ver cómo los métodos utilizados de diseño en esta práctica y en anteriores se lleva a cabo de proyectos reales. También, hemos conocido otros nuevos métodos.
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+En definitiva, a la hora de abordar el diseño de cualquier aplicación, sería ideal ver proyectos de otra gente, con el fin de obtener más ideas y aprender de la experiencia de ellos.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
@@ -131,6 +132,12 @@ Si quisiéramos usar dicha imagen como cabecera de *twitter*, *facebook* o cualq
 ----
 
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+
+---
+
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P3](https://github.com/sergiovp/DIU/tree/master/P3).
+
+---
 
 ## Paso 4. UX Check (Usability Testing) 
 
