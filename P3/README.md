@@ -167,6 +167,10 @@ Se ha usado la [herramienta que proporciona Google](https://material.io/), para 
 
 [![AlquilaPiso](./images/logo.png)](https://youtu.be/jtsOdRgkl14)
 
+
+El guión del vídeo puede encontrarse en el siguiente![enlace](https://github.com/sergiovp/DIU/blob/master/P3/Guión_Vídeo_Resumen.pdf)
+
+
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
 En general, continuamos mejorando nuestros conocimientos sobre diseños e interfaces de usuario. Quizás al principio de la asignatura, podíamos llegar a pensar que esta rama de la informática no tiene apenas relevancia, impulsándonos a programar directamente sin detenernos antes en las etapas que estamos viendo en las prácticas.
