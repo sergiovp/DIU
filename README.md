@@ -150,6 +150,15 @@ El enlace al vídeo resumen se encuentra [aquí](https://youtu.be/jtsOdRgkl14).
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
+En esta práctica, tendremos la perspectiva de evaluador o "cliente de producto". Lo que quiere decir que evaluaremos o comentaremos las partes de diseño de nuestros compañeros, así como sugeriremos mejoras y expresararemos  dudas con respecto a partes de los bocetos u otros entregables.
+
+Los compañeros a evaluar son:
+
++ [DIU1.1SHOT](https://github.com/aluruiz/DIU20)
+
++ [DIU3.BNET](https://github.com/alejandrobonet/DIU20)
+
++ [DIU3.ultraMerino](https://github.com/merino25/DIU20)
 
 >>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
 
