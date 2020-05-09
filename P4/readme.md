@@ -16,8 +16,13 @@ Descripcion y hoja de valoración.
 
 
 ## Caso 3. Grupo [DIU3.ultraMerino](https://github.com/merino25/DIU20)
+Al igual que en el grupo anterior, el tema general de las aplicaciones es el de compartir experiencias de ocio, es decir, todas aquellas plataformas cuyo objetivo es organizar eventos y que los usuarios se apunten a los que ellos deseen.
 
-Descripcion y hoja de valoración.   
+La aplicación a partir de la cual se realizó el estudio fue [Artery](https://www.artery.is/).
+
+Su propuesta de aplicación fue denominada **OCIUS**. Esta aplicación fomentará que los usuarios creen eventos de ocio en sus casas o asistan a eventos en los hogares de los demás compartiendo así experiencias únicas y conociendo gente nueva.
+
+La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/blob/master/P4/Reviews/DIU3.ultraMerino.pdf).
 
 ## User Testing
 
