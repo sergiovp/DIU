@@ -58,3 +58,9 @@ Otra carencia que se observa, es que la aplicación no pueda ser mostrada en var
 
 
 ## Conclusiones
+
+Se echan en falta más ítems referentes a la presentación de los repositorios. Ha sido habitual leer contenido mal estructurado. Frases vacías e incluso faltas de ortografía en ocasiones. 
+
+En cuanto a la repartición de trabajo, observamos que a veces un mayor número de personas realizando un trabajo no acompaña que ese trabajo esté bien hecho. 
+
+El hecho de haber realizado las pruebas de usuario con sólo una de las dos personas ficticias ha hecho que encontremos menos situaciones y carencias de las que se podían haber encontrado si hubiéramos hecho el **user testing** con las dos.
