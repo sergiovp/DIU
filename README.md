@@ -174,6 +174,15 @@ Los compañeros a evaluar son:
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
 
->>> Valoración personal 
+Antes de nada, es apropiado comentar que valoramos y respetamos mucho el trabajo de nuestros compañeros. 
+
+1º DIU3.ultraMerino 70
+2º  DIU3.BNET 58
+3º DIU1.1SHOT 56
+
+
+En general, un punto importante que nos ha dificultado el análisis de sus prácticas ha sido la desorganización con los READMEs. Hay veces en los que la práctica se explica en el readme general, otras en el readme de la práctica en concreto, etc. Por otra parte, los vídeos que se realizaron en la Práctica 3 son atractivos en general, aunque a veces no destacan las funcionalidades distintivas de las aplicaciones.
+
+No obstante, este análisis nos ha servido para aprender otros puntos de vista en cuanto a diseñar, así como conocer aplicaciones que hasta la fecha no sabíamos que existían, como es el caso de las aplicaciones para compartir experiencia o viajes.
+
