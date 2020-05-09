@@ -177,9 +177,9 @@ Los compañeros a evaluar son:
 
 Antes de nada, es apropiado comentar que valoramos y respetamos mucho el trabajo de nuestros compañeros. 
 
-1º DIU3.ultraMerino 70
-2º  DIU3.BNET 58
-3º DIU1.1SHOT 56
++ 1º [DIU3.ultraMerino](https://github.com/merino25/DIU20). 70 puntos.
++ 2º  [DIU3.BNET](https://github.com/alejandrobonet/DIU20). 58 puntos.
++ 3º [DIU1.1SHOT](https://github.com/aluruiz/DIU20). 56 puntos.
 
 
 En general, un punto importante que nos ha dificultado el análisis de sus prácticas ha sido la desorganización con los READMEs. Hay veces en los que la práctica se explica en el readme general, otras en el readme de la práctica en concreto, etc. Por otra parte, los vídeos que se realizaron en la Práctica 3 son atractivos en general, aunque a veces no destacan las funcionalidades distintivas de las aplicaciones.
