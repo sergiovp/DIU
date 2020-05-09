@@ -186,3 +186,6 @@ En general, un punto importante que nos ha dificultado el análisis de sus prác
 
 No obstante, este análisis nos ha servido para aprender otros puntos de vista en cuanto a diseñar, así como conocer aplicaciones que hasta la fecha no sabíamos que existían, como es el caso de las aplicaciones para compartir experiencia o viajes.
 
+---
+
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P3](https://github.com/sergiovp/DIU/tree/master/P4).
