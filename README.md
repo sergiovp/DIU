@@ -160,15 +160,10 @@ Los compañeros a evaluar son:
 
 + [DIU3.ultraMerino](https://github.com/merino25/DIU20)
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
-
-
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Hemos abordado tres situaciones distintas con nuestra persona ficticia Eva. En general, los problemas surgen con la falta de implementar aplicaciones en varios idiomas,  así como pocas opciones filtrando resultados. Por ejemplo, a la hora de seleccionar hotel, que no se pueda seleccionar el número de habitaciones deseadas o la cantidad de personas que van a viajar.
 
 
 ![Método UX](img/Survey.png). 4.c Ranking 
