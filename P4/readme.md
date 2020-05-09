@@ -35,7 +35,6 @@ Como sabemos, los tres grupos de prácticas hemos estado analizando aplicaciones
 
 
 #### [DIU1.1SHOT](https://github.com/aluruiz/DIU20)
-
 Eva, como madre de familia, espera poder organizar un viaje hasta el último detalle. En este caso, encontramos inconvenientes. Supongamos que viaja con su marido y dos hijos. Según está diseñada la aplicación, no podrá decidir el número de habitaciones a reservar, debería existir la opción de contratar a un guía, ya que estamos hablando de la posibilidad de viajar lejos y no conocer en absoluto el destino ni la cultura.
 
 En general, en cuanto a la reserva de hoteles, pensamos que debería de haber muchas más opciones, marcando el régimen en el que se van a alojar, como la posibilidad de que haya un “todo incluido”, o poder marcar una opción para cenar en el hotel, etc. Por esto, pensamos que hay aspectos primordiales que no se han tenido en cuenta tales como el número de personas que van a viajar al  alojamiento.
@@ -45,7 +44,12 @@ En conclusión, se podría dar la situación en la que Eva organice un viaje a C
 Tras volver del viaje, intentan valorar su mala experiencia pero no pueden ya que la aplicación no cuenta con esta función.
 
 #### [DIU3.BNET](https://github.com/alejandrobonet/DIU20)
+Eva decide asistir a una competición de arte que tiene como recompensa el que se exponga una obra del ganador en el Museo Guggenheim. Tras ver el evento, decide apuntarse y observa que para participar necesita pagar por la inscripción. El problema es que desde esta aplicación no puede realizar el pago, porque no está disponible dicha acción. Finalmente, debe buscar por otros medios como acceder al pago de la inscripción ya que el diseño de la aplicación EventWORLD.
 
 #### [DIU3.ultraMerino](https://github.com/merino25/DIU20)
+En el caso de este grupo, valoramos a la aplicación ocius. Ya en la Práctica 2, criticaban que la aplicación a mejorar no contaba con la posibilidad de crear eventos de tipo privado. Solamente era posible la creación de eventos públicos. Tras el diseño, vemos que esta posibilidad sigue sin añadirse, lo cual puede ser un hándicap para Eva, la cual se reúne habitualmente con sus amigos. 
+
+Otra carencia que se observa, es que la aplicación no pueda ser mostrada en varios idiomas, lo cual reduce las posibilidades de los eventos a realizar. Por ejemplo, imaginemos una quedada con gente de varios países que pretende hacer un intercambio de idiomas.
+
 
 ## Conclusiones
