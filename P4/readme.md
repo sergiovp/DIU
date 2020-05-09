@@ -31,11 +31,21 @@ La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/bl
 
 ## User Testing
 
-	Describe la experiencia 1
+Como sabemos, los tres grupos de prácticas hemos estado analizando aplicaciones de compartición de experiencia, viajes o piso. Para la realización de las pruebas de usuario, se ha escogido a nuestro persona ficticia Eva que, como sabemos, es una persona a la que le gusta pasar mucho tiempo con su familia y amigos, este es el motivo por el cual puede resultar más crítica juzgando una aplicación de compartición como hemos mencionado anteriormente.
 
-	Describe la experiencia 2
 
-	Describe la experiencia 3
+#### [DIU1.1SHOT](https://github.com/aluruiz/DIU20)
 
+Eva, como madre de familia, espera poder organizar un viaje hasta el último detalle. En este caso, encontramos inconvenientes. Supongamos que viaja con su marido y dos hijos. Según está diseñada la aplicación, no podrá decidir el número de habitaciones a reservar, debería existir la opción de contratar a un guía, ya que estamos hablando de la posibilidad de viajar lejos y no conocer en absoluto el destino ni la cultura.
+
+En general, en cuanto a la reserva de hoteles, pensamos que debería de haber muchas más opciones, marcando el régimen en el que se van a alojar, como la posibilidad de que haya un “todo incluido”, o poder marcar una opción para cenar en el hotel, etc. Por esto, pensamos que hay aspectos primordiales que no se han tenido en cuenta tales como el número de personas que van a viajar al  alojamiento.
+
+En conclusión, se podría dar la situación en la que Eva organice un viaje a China con su familia y al llegar descubren que el hotel es de tipo colmena. Uno de los hijos de Eva sufre claustrofobia. Al no conocer el idioma, no pueden explicar esta situación a nadie del hotel. Para colmo, tras el vuelo tan largo, vienen con mucha hambre y no tienen nada contratado en el hotel. Se enteran que por no haber indicado el tipo de régimen (del que carece la aplicación), las comidas en el restaurante del hotel salen mucho más caras.
+
+Tras volver del viaje, intentan valorar su mala experiencia pero no pueden ya que la aplicación no cuenta con esta función.
+
+#### [DIU3.BNET](https://github.com/alejandrobonet/DIU20)
+
+#### [DIU3.ultraMerino](https://github.com/merino25/DIU20)
 
 ## Conclusiones
