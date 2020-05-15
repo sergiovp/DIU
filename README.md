@@ -163,6 +163,7 @@ Los compañeros a evaluar son:
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
+
 Para la realización de las pruebas de usuario, se ha escogido a nuestro persona ficticia Eva que, como sabemos, es una persona a la que le gusta pasar mucho tiempo con su familia y amigos. Este es el motivo por el cual puede resultar más crítica juzgando una aplicación de compartición como hemos mencionado anteriormente.
 
 En general, los problemas surgen con la falta de implementar aplicaciones en varios idiomas,  así como pocas opciones filtrando resultados. Por ejemplo, a la hora de seleccionar hotel, que no se pueda seleccionar el número de habitaciones deseadas o la cantidad de personas que van a viajar.
