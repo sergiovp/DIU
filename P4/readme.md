@@ -57,6 +57,8 @@ Eva decide asistir a una competición de arte que tiene como recompensa el que s
 
 En el caso de este grupo, valoramos a la aplicación **Ocius**. Ya en la Práctica 2, criticaban que la aplicación a mejorar no contaba con la posibilidad de crear eventos de tipo privado. Solamente era posible la creación de eventos públicos. Tras el diseño, vemos que esta posibilidad sigue sin añadirse, lo cual puede ser un hándicap para Eva, la cual se reúne habitualmente con sus amigos. 
 
+Bajo esta situación, puede darse el caso de que decidan hacer una exposición privada para los miembros de una asociación de Arte y al ser público el evento, asiste gente que no conocen, lo cual hace que la gente se cohiba.
+
 Otra carencia que se observa, es que la aplicación no pueda ser mostrada en varios idiomas, lo cual reduce las posibilidades de los eventos a realizar. Por ejemplo, imaginemos una quedada con gente de varios países que pretende hacer un intercambio de idiomas.
 
 
