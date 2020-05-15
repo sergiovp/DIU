@@ -31,7 +31,7 @@ La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/bl
 
 ## User Testing
 
-Como sabemos, los tres grupos de prácticas hemos estado analizando aplicaciones de compartición de experiencia, viajes o piso. Para la realización de las pruebas de usuario, se ha escogido a nuestro persona ficticia Eva que, como sabemos, es una persona a la que le gusta pasar mucho tiempo con su familia y amigos, este es el motivo por el cual puede resultar más crítica juzgando una aplicación de compartición como hemos mencionado anteriormente.
+Como sabemos, los tres grupos de prácticas hemos estado analizando aplicaciones de compartición de experiencia, viajes o piso. 
 
 ---
 

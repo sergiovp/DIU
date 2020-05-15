@@ -163,10 +163,12 @@ Los compañeros a evaluar son:
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
-Hemos abordado tres situaciones distintas con nuestra persona ficticia Eva. En general, los problemas surgen con la falta de implementar aplicaciones en varios idiomas,  así como pocas opciones filtrando resultados. Por ejemplo, a la hora de seleccionar hotel, que no se pueda seleccionar el número de habitaciones deseadas o la cantidad de personas que van a viajar.
+Para la realización de las pruebas de usuario, se ha escogido a nuestro persona ficticia Eva que, como sabemos, es una persona a la que le gusta pasar mucho tiempo con su familia y amigos. Este es el motivo por el cual puede resultar más crítica juzgando una aplicación de compartición como hemos mencionado anteriormente.
+
+En general, los problemas surgen con la falta de implementar aplicaciones en varios idiomas,  así como pocas opciones filtrando resultados. Por ejemplo, a la hora de seleccionar hotel, que no se pueda seleccionar el número de habitaciones deseadas o la cantidad de personas que van a viajar.
 
 
-![Método UX](img/Survey.png). 4.c Ranking 
+![Método UX](img/Survey.png) 4.c Ranking 
 ----
 
 
@@ -183,4 +185,4 @@ No obstante, este análisis nos ha servido para aprender otros puntos de vista e
 
 ---
 
-#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P3](https://github.com/sergiovp/DIU/tree/master/P4).
+#### Se recuerda que en esta ficha tenemos un pequeño resumen de la práctica. El resultado final con todos los detalles los encontramos en [P4](https://github.com/sergiovp/DIU/tree/master/P4).
