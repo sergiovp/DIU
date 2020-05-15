@@ -33,7 +33,7 @@ La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/bl
 
 Como sabemos, los tres grupos de prácticas hemos estado analizando aplicaciones de compartición de experiencia, viajes o piso. 
 
-Hemos abordado tres situaciones distintas con nuestra persona ficticia Eva y bajo las cuales reflejaremos qué les ha faltado a estos equipos y qué carencias tienen sus aplicaciones.
+Se han abordado tres situaciones distintas con nuestra persona ficticia Eva y bajo las cuales se refleja qué les ha faltado a estos equipos y qué carencias tienen sus aplicaciones.
 
 ---
 
