@@ -8,6 +8,10 @@ Para el estudio, han elegido la aplicación [Passporter](https://passporterapp.c
 
 En cuanto a su propia aplicación, la han llamado **Share to Fly**. Prometen mantener el carácter de la aplicación a susperar añadiendo nuevas funcionalidades como la posibilidad de gestionar viajes y rutas de usuarios para que sean compartidas.
 
+Como puntos **a favor** de la aplicación desarrollada por este equipo, podríamos destacar el **logotipo** tan original que han diseñado o el **análisis competitivo** valorando de manera objetiva la competencia.
+Por otro lado, como puntos **negativos**, nos encontramos dos **personas ficticias** con información escasa que nos hace imposible imagirnarnos como serán realmente. En cuanto a los **journey map**, las historias no representan un conflicto real para el usuario. En la elaboración del **site map** encontramos cosas incongruentes, como la posibilidad de visitar el perfil del usuario sin previamente logearse.
+El **README** principal se encuentra incompleto con alguna práctica, y en caso contrario, hay prácticas en las que el readme principal contiene más información que el particular de la práctica.
+
 La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/blob/master/P4/Reviews/DIU1.1SHOT.pdf).
 
 ## Caso 2. Grupo [DIU3.BNET](https://github.com/alejandrobonet/DIU20)
