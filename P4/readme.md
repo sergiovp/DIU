@@ -20,6 +20,12 @@ Servirá tanto de guía para viajes como para para encontrar nuevas aficiones o 
 
 La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/blob/master/P4/Reviews/DIU3.BNET.pdf).
 
+
+A continuación se destacan los **elementos mejores y peores** de esta práctica: uno de los journey map no reflejaba un problema de diseño de la aplicación, ni se añadió logotipo en la Práctica 3.
+
+Como puntos fuertes, los bocetos realizados eran extensos y reflejaban todas las funcionalidades indicadas anteriormente abarcando todas las vistas posibles.
+
+
 ## Caso 3. Grupo [DIU3.ultraMerino](https://github.com/merino25/DIU20)
 Al igual que en el grupo anterior, el tema general de las aplicaciones es el de compartir experiencias de ocio.
 
@@ -28,6 +34,8 @@ La aplicación a partir de la cual se realizó el estudio fue [Artery](https://w
 Su propuesta de aplicación fue denominada **OCIUS**. Esta aplicación fomentará que los usuarios creen eventos de ocio en sus casas o asistan a eventos en los hogares de los demás compartiendo así experiencias únicas y conociendo gente nueva.
 
 La hoja de valoración la encontramos [aquí](https://github.com/sergiovp/DIU/blob/master/P4/Reviews/DIU3.ultraMerino.pdf).
+
+En cuanto a las **virtudes y carencias** de esta práctica, destacamos lo siguiente: en la propuesta no se hace una descripción explícita del producto ni se indican las funcionalidades más reelevantes; el análisis de competencia era pobre pues solo analizaban a un rival y apenas destacaban sus bazas ni sus puntos débiles. En contrapartida, y como puntos a destacar, se crearon las personas de forma adecuada permitiendo de manera sintetizada conocer a esas personas así como sus vidas, con unas experiencias posteriores bastante ilustrativas. 
 
 ## User Testing
 
